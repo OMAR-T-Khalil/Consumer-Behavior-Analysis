@@ -1,0 +1,1001 @@
+user_id,user_name,session_id,ad_source,clicked_ad,landed_on_website,device_type,time_on_site_sec,product_viewed,num_products_viewed,added_to_cart,initiated_checkout,completed_purchase,purchase_amount,left_review,exit_stage,product_category
+user_0363,Tiffany Cole,sess_291e4cbc0f,Instagram,Yes,Yes,Mobile,133,Pants Item B,1,Yes,No,No,0.0,No,cart,Pants
+user_0315,Brian Casey,sess_ec84fba5ec,Google,Yes,Yes,Mobile,230,Shorts Item Z,1,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0367,Alexander Simpson,sess_d4f904833d,Instagram,Yes,Yes,Mobile,242,T-Shirts Item Z,1,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0116,Angelica Kemp,sess_90b0cada66,Google,Yes,Yes,Mobile,713,Jeans Item A,2,Yes,Yes,Yes,35.71,No,purchase_confirmation,Jeans
+user_0365,Anthony Bruce,sess_4d63b636ca,Facebook,Yes,No,Desktop,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0393,Theresa Cole,sess_aa2fc0e41c,Instagram,Yes,Yes,Desktop,34,Shorts Item A,1,No,No,No,0.0,No,product_page,Shorts
+user_0069,Jeffrey Hernandez,sess_91025ee72c,Instagram,Yes,Yes,Desktop,297,T-Shirts Item B,1,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0281,Mark Daniels,sess_a6221e1c15,Instagram,Yes,Yes,Mobile,102,Pants Item Z,1,No,No,No,0.0,No,product_page,Pants
+user_0207,Joseph Pruitt,sess_d37688dd5e,Instagram,Yes,Yes,Mobile,254,T-Shirts Item B,5,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0323,Ashley Proctor,sess_e673011e02,Instagram,Yes,Yes,Mobile,62,Shorts Item X,1,No,No,No,0.0,No,product_page,Shorts
+user_0224,Kimberly Turner,sess_8b208b4751,Facebook,Yes,Yes,Desktop,26,,0,No,No,No,0.0,No,landing_page,
+user_0386,Maria Diaz,sess_caf9f2c4d8,Google,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0013,Eric Petersen,sess_1b341109b1,Instagram,Yes,Yes,Mobile,51,Accessories Item A,4,No,No,No,0.0,No,product_page,Accessories
+user_0056,Holly Conley,sess_f6df8c143e,Instagram,Yes,Yes,Mobile,36,T-Shirts Item X,2,No,No,No,0.0,No,product_page,T-Shirts
+user_0368,Brian Taylor,sess_1f57cb2cfb,Instagram,Yes,Yes,Mobile,145,Jeans Item B,6,No,No,No,0.0,No,product_page,Jeans
+user_0270,Brooke Holden,sess_0c6d2d0949,Facebook,Yes,Yes,Mobile,33,Shorts Item A,2,No,No,No,0.0,No,product_page,Shorts
+user_0388,Anthony Warner,sess_a5b2c70c1f,Instagram,Yes,Yes,Mobile,263,Shorts Item X,1,Yes,Yes,Yes,29.1,No,purchase_confirmation,Shorts
+user_0163,Larry Boyle,sess_7a432088a5,Instagram,No,No,Desktop,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0287,Stephanie Braun,sess_89d68fdcc0,Instagram,Yes,Yes,Desktop,39,Accessories Item X,2,No,No,No,0.0,No,product_page,Accessories
+user_0188,Anne Lee,sess_3ac7017b86,Facebook,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0150,Lori Taylor,sess_8c41cb5d98,Facebook,Yes,Yes,Desktop,300,Jeans Item X,1,Yes,No,No,0.0,No,cart,Jeans
+user_0074,Spencer Norris,sess_9c04022add,Instagram,Yes,Yes,Mobile,165,Shorts Item Z,1,No,No,No,0.0,No,product_page,Shorts
+user_0320,Donald Richard,sess_ae9f18acd9,Instagram,Yes,Yes,Mobile,53,T-Shirts Item Z,3,No,No,No,0.0,No,product_page,T-Shirts
+user_0098,Anthony Poole,sess_4b4a143a52,Instagram,Yes,Yes,Desktop,5,,0,No,No,No,0.0,No,landing_page,
+user_0050,Michelle Schneider,sess_cb9f195149,Google,Yes,Yes,Mobile,178,T-Shirts Item Z,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0248,Corey Villegas,sess_d1f8d7ca16,Instagram,Yes,Yes,Mobile,25,,0,No,No,No,0.0,No,landing_page,
+user_0338,Joseph Carrillo,sess_2cac32212c,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0047,Karen Hughes,sess_2a1c11a88d,Facebook,Yes,Yes,Mobile,285,Jeans Item A,1,Yes,No,No,0.0,No,cart,Jeans
+user_0396,Tina Krueger,sess_784860358e,Google,Yes,Yes,Mobile,121,Pants Item A,1,No,No,No,0.0,No,product_page,Pants
+user_0341,Michael Moore,sess_14a09ffb64,Instagram,Yes,Yes,Mobile,186,Jeans Item A,2,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0284,Alexander Richard,sess_b6f67980fc,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0363,Tiffany Cole,sess_76f4c3d1a0,Facebook,Yes,Yes,Desktop,278,Shorts Item Z,4,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0150,Lori Taylor,sess_486cd7e17e,Google,Yes,Yes,Mobile,28,,0,No,No,No,0.0,No,landing_page,
+user_0069,Jeffrey Hernandez,sess_88d4a078a6,Instagram,Yes,Yes,Mobile,26,,0,No,No,No,0.0,No,landing_page,
+user_0082,Adam Schultz,sess_505ae6b033,Instagram,Yes,Yes,Desktop,1039,Jeans Item B,6,Yes,Yes,Yes,18.02,No,purchase_confirmation,Jeans
+user_0005,Michael Price,sess_e7f1191622,Facebook,Yes,Yes,Mobile,362,Hoodies Item X,2,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0396,Tina Krueger,sess_acdff9544a,Instagram,Yes,Yes,Desktop,86,Jeans Item A,1,Yes,No,No,0.0,No,cart,Jeans
+user_0273,Jennifer Gutierrez,sess_eb65e69f2f,Instagram,Yes,Yes,Mobile,427,T-Shirts Item A,1,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0347,Michelle Harrison,sess_37845743bb,Instagram,Yes,Yes,Desktop,486,Accessories Item B,1,Yes,Yes,No,0.0,No,checkout,Accessories
+user_0089,John Allen,sess_874a56cac2,Instagram,Yes,Yes,Desktop,45,Shorts Item X,2,No,No,No,0.0,No,product_page,Shorts
+user_0220,Jared Gomez,sess_e31d78bfc1,Instagram,Yes,Yes,Mobile,70,T-Shirts Item B,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0187,Elizabeth Kent,sess_1d76127ba9,Google,Yes,Yes,Mobile,86,Jeans Item B,1,No,No,No,0.0,No,product_page,Jeans
+user_0170,Carolyn Myers,sess_fbc41ccaba,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0233,John Lucas,sess_17b03fe069,Instagram,Yes,Yes,Mobile,798,Pants Item X,2,Yes,Yes,Yes,23.56,No,purchase_confirmation,Pants
+user_0179,Ernest Green,sess_384dd871b9,Instagram,Yes,Yes,Mobile,192,Jeans Item X,1,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0062,Wesley Peterson,sess_8517bc1b40,Google,Yes,Yes,Desktop,164,Jeans Item A,5,No,No,No,0.0,No,product_page,Jeans
+user_0089,John Allen,sess_ec2a72cc04,Facebook,Yes,Yes,Mobile,21,,0,No,No,No,0.0,No,landing_page,
+user_0014,Laura Logan,sess_8b89f7b8cd,Instagram,Yes,Yes,Mobile,431,Shorts Item B,10,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0116,Angelica Kemp,sess_9aca0877f5,Google,Yes,Yes,Mobile,54,T-Shirts Item B,2,No,No,No,0.0,No,product_page,T-Shirts
+user_0020,Ryan Williams,sess_3a21ae33c4,Google,Yes,Yes,Mobile,127,Hoodies Item B,4,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0003,Candice Acevedo,sess_aecdb415be,Facebook,Yes,Yes,Mobile,38,T-Shirts Item B,4,No,No,No,0.0,No,product_page,T-Shirts
+user_0271,Michelle Parker,sess_e4513de533,Instagram,Yes,Yes,Mobile,91,Accessories Item Z,6,No,No,No,0.0,No,product_page,Accessories
+user_0351,Curtis Bell,sess_d88ac17d01,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0383,Ricky Petersen,sess_d961a8e2f7,Instagram,Yes,Yes,Mobile,250,Jeans Item A,5,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0082,Adam Schultz,sess_8ac28a580c,Instagram,Yes,Yes,Mobile,587,Shorts Item A,1,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0085,Jacob Sawyer,sess_3337e66a37,Instagram,Yes,Yes,Desktop,151,Pants Item B,2,No,No,No,0.0,No,product_page,Pants
+user_0199,Shane Cook,sess_84c424d9bb,Instagram,Yes,Yes,Mobile,123,Accessories Item B,2,Yes,Yes,No,0.0,No,checkout,Accessories
+user_0283,Curtis Nichols,sess_89f24d1075,Facebook,Yes,Yes,Desktop,109,Pants Item B,5,No,No,No,0.0,No,product_page,Pants
+user_0275,Vanessa Silva,sess_ba9d40153e,Facebook,Yes,Yes,Mobile,20,,0,No,No,No,0.0,No,landing_page,
+user_0157,Kathryn Soto,sess_8691859204,Facebook,Yes,Yes,Mobile,142,Hoodies Item B,2,No,No,No,0.0,No,product_page,Hoodies
+user_0070,Frank Campbell,sess_f93429545b,Google,Yes,Yes,Mobile,162,Jeans Item B,1,No,No,No,0.0,No,product_page,Jeans
+user_0023,Lisa Shaw,sess_6d583c8138,Google,Yes,Yes,Mobile,428,T-Shirts Item B,1,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0219,Kristen Phillips,sess_d943119f02,Facebook,Yes,Yes,Mobile,188,Jeans Item Z,2,Yes,No,No,0.0,No,cart,Jeans
+user_0215,Alvin Ortega,sess_7a2a36de21,Instagram,Yes,Yes,Mobile,535,Jeans Item A,2,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0068,Donald Mendez,sess_396f5fa543,Instagram,Yes,Yes,Desktop,337,Hoodies Item X,1,Yes,Yes,Yes,52.56,Yes,purchase_confirmation,Hoodies
+user_0232,Eddie Mcbride,sess_ed5008d5f0,Instagram,Yes,Yes,Mobile,97,Shorts Item B,1,No,No,No,0.0,No,product_page,Shorts
+user_0378,Michelle Smith,sess_059699ffdc,Instagram,Yes,No,Mobile,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0022,Carolyn Mora,sess_6700fdda58,Instagram,Yes,Yes,Desktop,146,Pants Item A,2,No,No,No,0.0,No,product_page,Pants
+user_0105,Jessica Robertson,sess_d91b0a1a47,Instagram,Yes,Yes,Desktop,867,T-Shirts Item X,1,Yes,Yes,Yes,20.23,Yes,purchase_confirmation,T-Shirts
+user_0145,Rose Gonzalez,sess_5a1a0070fe,Instagram,Yes,Yes,Mobile,856,T-Shirts Item B,1,Yes,Yes,Yes,28.33,No,purchase_confirmation,T-Shirts
+user_0265,Sylvia Wilkerson MD,sess_c0a84e70cd,Instagram,Yes,Yes,Desktop,92,Shorts Item B,2,No,No,No,0.0,No,product_page,Shorts
+user_0017,Andrew Wolfe,sess_0cb408c0ad,Google,Yes,Yes,Mobile,261,Shorts Item B,2,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0115,Alyssa Wong,sess_57cf44c31e,Facebook,Yes,Yes,Mobile,491,T-Shirts Item B,1,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0083,Patricia Robinson,sess_82283a18b6,Instagram,Yes,Yes,Mobile,195,T-Shirts Item A,1,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0058,Kathleen Haney,sess_4bc3e9178b,Instagram,Yes,Yes,Mobile,69,T-Shirts Item B,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0387,Joshua Mcdonald,sess_895a44aff0,Google,Yes,Yes,Desktop,130,Shorts Item A,3,No,No,No,0.0,No,product_page,Shorts
+user_0265,Sylvia Wilkerson MD,sess_91ba4ac751,Facebook,Yes,Yes,Mobile,288,T-Shirts Item Z,1,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0337,Scott Graves,sess_82741ab263,Facebook,Yes,Yes,Desktop,17,,0,No,No,No,0.0,No,landing_page,
+user_0107,Joseph Lopez,sess_7600351d16,Instagram,Yes,Yes,Desktop,77,Shorts Item B,1,No,No,No,0.0,No,product_page,Shorts
+user_0137,Karen Miller,sess_0503a21992,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0073,Kathryn Hancock,sess_4c96a58d80,Instagram,Yes,Yes,Mobile,412,Accessories Item A,5,Yes,Yes,No,0.0,No,checkout,Accessories
+user_0303,Kayla Doyle,sess_cde5b8800b,Instagram,Yes,Yes,Desktop,393,Shorts Item B,1,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0134,Cody Porter,sess_f2bf74c8e9,Facebook,Yes,Yes,Desktop,543,Pants Item Z,1,Yes,Yes,No,0.0,No,checkout,Pants
+user_0317,Lindsey Edwards,sess_69bc7b4776,Instagram,Yes,Yes,Mobile,479,Jeans Item A,1,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0022,Carolyn Mora,sess_a3c0e49dcd,Facebook,Yes,Yes,Mobile,299,Pants Item Z,1,Yes,Yes,No,0.0,No,checkout,Pants
+user_0164,Amber Mccann,sess_d410d997d6,Instagram,Yes,Yes,Mobile,80,Shorts Item Z,1,No,No,No,0.0,No,product_page,Shorts
+user_0048,Megan Nelson,sess_a7e8daae6a,Google,Yes,Yes,Mobile,266,Pants Item A,3,Yes,Yes,No,0.0,No,checkout,Pants
+user_0367,Alexander Simpson,sess_30620eda97,Google,No,No,Desktop,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0071,Angela Delacruz,sess_c9a4f7b41b,Google,Yes,Yes,Mobile,83,Hoodies Item X,1,Yes,No,No,0.0,No,cart,Hoodies
+user_0191,Deborah Hoffman,sess_a2567bf795,Google,Yes,Yes,Mobile,245,Pants Item X,1,Yes,Yes,No,0.0,No,checkout,Pants
+user_0210,Zachary Quinn,sess_dad9bd69b2,Instagram,Yes,No,Desktop,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0027,Kyle Jones,sess_33f107076f,Google,Yes,Yes,Mobile,384,Hoodies Item A,2,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0019,Kevin Bryant,sess_4843e9351e,Google,Yes,Yes,Desktop,68,T-Shirts Item Z,3,No,No,No,0.0,No,product_page,T-Shirts
+user_0248,Corey Villegas,sess_082b28101a,Facebook,Yes,Yes,Desktop,70,Shorts Item A,3,No,No,No,0.0,No,product_page,Shorts
+user_0023,Lisa Shaw,sess_6a37e1659b,Instagram,Yes,Yes,Desktop,165,T-Shirts Item B,2,No,No,No,0.0,No,product_page,T-Shirts
+user_0197,Katie Brown,sess_6f02d04ebb,Instagram,No,No,Desktop,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0228,Mckenzie Boyd,sess_42a0bf2c65,Google,Yes,Yes,Mobile,994,Shorts Item B,2,Yes,Yes,Yes,15.15,No,purchase_confirmation,Shorts
+user_0054,Adam Owens,sess_b1328a826b,Instagram,Yes,Yes,Desktop,137,Jeans Item X,2,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0205,Melissa Hall,sess_e6b4671467,Instagram,Yes,Yes,Mobile,177,Accessories Item B,7,No,No,No,0.0,No,product_page,Accessories
+user_0160,Bryan Cunningham,sess_6907980fa0,Instagram,Yes,Yes,Mobile,130,Jeans Item B,4,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0117,Jason Stephens,sess_1784d8cbae,Facebook,Yes,Yes,Desktop,6,,0,No,No,No,0.0,No,landing_page,
+user_0221,Amy Mayer,sess_73b1bbc14c,Facebook,Yes,Yes,Desktop,113,Pants Item B,1,Yes,No,No,0.0,No,cart,Pants
+user_0214,Alexander Holmes,sess_38a401fe7f,Google,Yes,Yes,Mobile,511,Jeans Item Z,2,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0087,David Kelley,sess_c819666f9f,Instagram,Yes,Yes,Mobile,528,Jeans Item Z,3,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0321,Amy Anderson,sess_090eb72375,Instagram,Yes,Yes,Desktop,52,T-Shirts Item A,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0341,Michael Moore,sess_9d081a39d6,Google,Yes,Yes,Mobile,56,T-Shirts Item A,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0157,Kathryn Soto,sess_3325123f56,Instagram,Yes,Yes,Mobile,106,T-Shirts Item X,4,No,No,No,0.0,No,product_page,T-Shirts
+user_0131,Paul Shea,sess_1e0f394b75,Instagram,Yes,Yes,Mobile,337,Hoodies Item X,1,Yes,Yes,Yes,75.79,No,purchase_confirmation,Hoodies
+user_0366,Christina Carter,sess_319f6f11f8,Instagram,Yes,Yes,Mobile,137,Hoodies Item X,3,No,No,No,0.0,No,product_page,Hoodies
+user_0381,Michelle Diaz,sess_74b34cd0d1,Instagram,Yes,Yes,Mobile,31,Pants Item B,2,No,No,No,0.0,No,product_page,Pants
+user_0142,Jennifer Bryant,sess_7a9611e353,Facebook,Yes,Yes,Desktop,104,Pants Item B,1,No,No,No,0.0,No,product_page,Pants
+user_0327,Jennifer Smith,sess_8bf560ea08,Facebook,Yes,Yes,Desktop,69,T-Shirts Item X,10,No,No,No,0.0,No,product_page,T-Shirts
+user_0189,Kristen Barron,sess_516588bb87,Facebook,Yes,Yes,Mobile,164,Jeans Item B,1,No,No,No,0.0,No,product_page,Jeans
+user_0161,Laura Jones,sess_385e6a54cb,Facebook,Yes,Yes,Mobile,454,Jeans Item A,1,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0239,Tracey Smith,sess_7574eb2b3d,Instagram,Yes,Yes,Desktop,65,T-Shirts Item Z,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0394,Michael Johnson,sess_4fadeaa819,Instagram,Yes,Yes,Desktop,179,Jeans Item B,3,No,No,No,0.0,No,product_page,Jeans
+user_0242,Benjamin Atkins,sess_bd7b38b178,Google,Yes,Yes,Desktop,524,Hoodies Item B,4,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0013,Eric Petersen,sess_2e3f788fdb,Facebook,Yes,Yes,Desktop,16,,0,No,No,No,0.0,No,landing_page,
+user_0221,Amy Mayer,sess_c227c514d9,Instagram,Yes,Yes,Desktop,344,T-Shirts Item A,2,Yes,Yes,Yes,12.18,No,purchase_confirmation,T-Shirts
+user_0017,Andrew Wolfe,sess_6b0eadb1b8,Instagram,Yes,Yes,Mobile,471,T-Shirts Item X,1,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0238,Kelly Patterson,sess_f6ac76162b,Facebook,Yes,Yes,Mobile,712,Accessories Item X,3,Yes,Yes,Yes,12.76,No,purchase_confirmation,Accessories
+user_0347,Michelle Harrison,sess_43283d80eb,Instagram,Yes,Yes,Mobile,206,Shorts Item X,2,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0239,Tracey Smith,sess_352a433823,Instagram,Yes,Yes,Desktop,134,Pants Item Z,3,Yes,Yes,No,0.0,No,checkout,Pants
+user_0258,Jennifer Grant,sess_ca4cf0f1f8,Instagram,Yes,Yes,Mobile,28,,0,No,No,No,0.0,No,landing_page,
+user_0027,Kyle Jones,sess_d073c6f30d,Instagram,Yes,Yes,Desktop,140,Jeans Item B,3,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0009,Jonathan Wade,sess_9d94ab4dc1,Instagram,Yes,Yes,Mobile,54,Pants Item X,5,No,No,No,0.0,No,product_page,Pants
+user_0385,Amy Harrison,sess_6eaf26b61b,Facebook,Yes,Yes,Desktop,263,T-Shirts Item X,4,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0317,Lindsey Edwards,sess_a984867fb3,Instagram,Yes,Yes,Desktop,160,Hoodies Item Z,3,No,No,No,0.0,No,product_page,Hoodies
+user_0208,Patricia Potter,sess_abe9b655a8,Instagram,Yes,Yes,Mobile,443,Accessories Item Z,1,Yes,Yes,No,0.0,No,checkout,Accessories
+user_0218,Paul Mills,sess_9f84ed890c,Instagram,Yes,Yes,Mobile,157,Accessories Item A,1,No,No,No,0.0,No,product_page,Accessories
+user_0388,Anthony Warner,sess_b1d6379d03,Instagram,Yes,Yes,Mobile,415,Pants Item Z,2,Yes,Yes,No,0.0,No,checkout,Pants
+user_0098,Anthony Poole,sess_b034367dda,Google,Yes,Yes,Desktop,385,Shorts Item Z,2,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0117,Jason Stephens,sess_baf18e6b0c,Facebook,Yes,Yes,Mobile,168,Hoodies Item X,1,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0376,Sarah Sims,sess_5b058dfbd5,Facebook,Yes,Yes,Mobile,80,Jeans Item X,1,No,No,No,0.0,No,product_page,Jeans
+user_0323,Ashley Proctor,sess_2b73f58fd9,Instagram,Yes,No,Mobile,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0259,Robert Mcdonald,sess_952e014a65,Instagram,Yes,Yes,Mobile,73,T-Shirts Item Z,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0032,Ashley Gardner,sess_a22a563806,Google,Yes,Yes,Mobile,167,T-Shirts Item Z,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0161,Laura Jones,sess_00d36ba63a,Instagram,Yes,Yes,Mobile,434,Hoodies Item X,5,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0359,Mitchell Flowers DDS,sess_0081f3a256,Facebook,Yes,Yes,Desktop,192,T-Shirts Item B,1,Yes,No,No,0.0,No,cart,T-Shirts
+user_0348,Audrey Morgan,sess_b363b96dcc,Instagram,Yes,Yes,Mobile,1032,Jeans Item B,2,Yes,Yes,Yes,17.92,No,purchase_confirmation,Jeans
+user_0027,Kyle Jones,sess_2fae4f2529,Instagram,Yes,Yes,Mobile,117,Jeans Item X,1,No,No,No,0.0,No,product_page,Jeans
+user_0162,Logan Henderson,sess_1c1431286b,Facebook,Yes,Yes,Mobile,89,Jeans Item X,2,No,No,No,0.0,No,product_page,Jeans
+user_0008,Brittany Hart,sess_8b509ea139,Facebook,Yes,Yes,Mobile,118,Hoodies Item X,2,No,No,No,0.0,No,product_page,Hoodies
+user_0151,Tammy Mcdonald,sess_68801644b6,Facebook,Yes,Yes,Mobile,642,Hoodies Item B,3,Yes,Yes,Yes,34.39,Yes,purchase_confirmation,Hoodies
+user_0037,Danielle Burke,sess_f6fa547441,Facebook,Yes,Yes,Mobile,23,,0,No,No,No,0.0,No,landing_page,
+user_0351,Curtis Bell,sess_ad2d8f6ce6,Instagram,Yes,Yes,Mobile,29,,0,No,No,No,0.0,No,landing_page,
+user_0379,Lauren Montgomery,sess_57a68a9a10,Instagram,Yes,Yes,Mobile,44,T-Shirts Item X,2,No,No,No,0.0,No,product_page,T-Shirts
+user_0017,Andrew Wolfe,sess_14c6012279,Facebook,Yes,Yes,Desktop,244,Jeans Item A,1,Yes,Yes,Yes,41.12,No,purchase_confirmation,Jeans
+user_0100,Jeffrey Crawford,sess_4f03afc0ea,Google,Yes,Yes,Desktop,629,Jeans Item A,5,Yes,Yes,Yes,59.84,No,purchase_confirmation,Jeans
+user_0293,Morgan Mclaughlin,sess_9e87f2e379,Instagram,Yes,Yes,Mobile,523,Jeans Item B,4,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0297,Mark Brown,sess_eda5c744ae,Instagram,Yes,Yes,Mobile,812,Pants Item A,2,Yes,Yes,Yes,18.74,No,purchase_confirmation,Pants
+user_0390,Scott Esparza,sess_dce447d36c,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0119,Barbara Soto,sess_fd4c2ec79d,Instagram,Yes,Yes,Mobile,59,T-Shirts Item B,2,No,No,No,0.0,No,product_page,T-Shirts
+user_0231,Michael Holmes,sess_798dfa74e7,Facebook,Yes,Yes,Mobile,557,T-Shirts Item X,1,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0113,Michael Sims,sess_216b3afe7f,Instagram,Yes,Yes,Desktop,177,T-Shirts Item Z,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0187,Elizabeth Kent,sess_8693318134,Facebook,Yes,Yes,Desktop,24,,0,No,No,No,0.0,No,landing_page,
+user_0383,Ricky Petersen,sess_7066a00d6d,Google,Yes,Yes,Desktop,164,Pants Item X,1,Yes,No,No,0.0,No,cart,Pants
+user_0052,April Clarke,sess_5da982fd8a,Instagram,Yes,Yes,Mobile,499,Pants Item A,3,Yes,Yes,No,0.0,No,checkout,Pants
+user_0240,William Bartlett,sess_ea722d0461,Instagram,Yes,Yes,Desktop,1067,T-Shirts Item Z,1,Yes,Yes,Yes,20.89,No,purchase_confirmation,T-Shirts
+user_0310,Penny Copeland,sess_99cdc78421,Instagram,Yes,Yes,Mobile,84,Pants Item A,3,No,No,No,0.0,No,product_page,Pants
+user_0352,Laura Johnson,sess_cd521cb684,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0357,James Robinson,sess_7f26c27d51,Facebook,Yes,Yes,Mobile,83,Accessories Item Z,1,No,No,No,0.0,No,product_page,Accessories
+user_0147,David Harris,sess_bdaa053cea,Instagram,Yes,Yes,Mobile,49,T-Shirts Item X,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0279,Amanda Salazar,sess_e400091f93,Facebook,Yes,Yes,Desktop,446,Shorts Item A,3,Yes,Yes,Yes,23.0,No,purchase_confirmation,Shorts
+user_0391,Kelly Hebert,sess_97a6625883,Instagram,Yes,Yes,Mobile,117,Accessories Item X,1,No,No,No,0.0,No,product_page,Accessories
+user_0232,Eddie Mcbride,sess_2a1dcb5f45,Facebook,Yes,Yes,Mobile,195,Hoodies Item X,6,Yes,No,No,0.0,No,cart,Hoodies
+user_0009,Jonathan Wade,sess_1bb7eb587c,Instagram,Yes,Yes,Mobile,50,Accessories Item A,1,No,No,No,0.0,No,product_page,Accessories
+user_0345,Autumn Barker,sess_010a1304e9,Facebook,Yes,Yes,Mobile,163,T-Shirts Item A,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0232,Eddie Mcbride,sess_e1445d21ad,Google,Yes,Yes,Desktop,17,,0,No,No,No,0.0,No,landing_page,
+user_0350,Kayla Combs,sess_2751fbd2cf,Google,Yes,Yes,Mobile,64,Accessories Item X,2,No,No,No,0.0,No,product_page,Accessories
+user_0045,Ashley Mcdowell,sess_f8abe95cf7,Instagram,Yes,Yes,Mobile,448,Hoodies Item X,6,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0334,Kristen Robles,sess_ff602d1481,Google,Yes,Yes,Mobile,83,Shorts Item B,1,No,No,No,0.0,No,product_page,Shorts
+user_0265,Sylvia Wilkerson MD,sess_24de5bc4ba,Google,Yes,Yes,Mobile,427,Hoodies Item B,2,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0055,Dr. Dana Norris DDS,sess_93c4c2ca1d,Instagram,Yes,Yes,Mobile,69,T-Shirts Item B,2,No,No,No,0.0,No,product_page,T-Shirts
+user_0188,Anne Lee,sess_9c71bb96ad,Facebook,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0033,Drew Walker,sess_2a19959901,Facebook,Yes,Yes,Mobile,57,Hoodies Item B,1,No,No,No,0.0,No,product_page,Hoodies
+user_0373,Abigail Vasquez,sess_202b646ce9,Instagram,Yes,Yes,Desktop,309,Shorts Item B,2,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0270,Brooke Holden,sess_0299fa3fe6,Google,Yes,Yes,Desktop,114,Pants Item Z,4,No,No,No,0.0,No,product_page,Pants
+user_0156,Chris Martin,sess_7801737c90,Facebook,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0110,Jennifer Dunn,sess_d0b63b485b,Facebook,Yes,Yes,Desktop,81,Jeans Item B,2,Yes,No,No,0.0,No,cart,Jeans
+user_0295,Logan Thompson,sess_3f3fd5a641,Instagram,Yes,Yes,Desktop,468,Pants Item Z,1,Yes,Yes,No,0.0,No,checkout,Pants
+user_0178,Julie Mccullough,sess_7b4c0294db,Instagram,Yes,Yes,Mobile,76,Pants Item Z,1,No,No,No,0.0,No,product_page,Pants
+user_0003,Candice Acevedo,sess_22d0e3b922,Google,Yes,Yes,Mobile,51,Jeans Item A,2,No,No,No,0.0,No,product_page,Jeans
+user_0391,Kelly Hebert,sess_1288d7e306,Facebook,Yes,Yes,Mobile,114,Hoodies Item B,1,No,No,No,0.0,No,product_page,Hoodies
+user_0217,Tina Wade,sess_2c9e4fc1fd,Instagram,Yes,Yes,Desktop,176,T-Shirts Item Z,6,Yes,No,No,0.0,No,cart,T-Shirts
+user_0334,Kristen Robles,sess_8648ed2816,Instagram,No,No,Desktop,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0358,Scott Reeves,sess_68be13f95e,Facebook,Yes,Yes,Mobile,233,Hoodies Item X,1,Yes,Yes,Yes,54.13,No,purchase_confirmation,Hoodies
+user_0354,Bonnie Evans,sess_09ac3b16b1,Instagram,Yes,Yes,Mobile,54,T-Shirts Item X,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0267,Tina Villa,sess_e322fa5706,Facebook,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0376,Sarah Sims,sess_e1122082da,Facebook,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0106,Audrey Payne,sess_8ff9a98b18,Facebook,Yes,Yes,Desktop,534,T-Shirts Item Z,1,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0293,Morgan Mclaughlin,sess_20d09581ed,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0227,Lance Martinez,sess_8a6bdb9236,Facebook,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0266,Annette Lee,sess_ccb9db0305,Instagram,Yes,Yes,Mobile,5,,0,No,No,No,0.0,No,landing_page,
+user_0331,Adam Gross,sess_57a140c9fa,Instagram,Yes,Yes,Desktop,149,Shorts Item A,2,No,No,No,0.0,No,product_page,Shorts
+user_0183,Bianca Zamora,sess_58d666fc5d,Instagram,Yes,Yes,Desktop,10,,0,No,No,No,0.0,No,landing_page,
+user_0384,Elizabeth Thomas,sess_8ef93b0aa0,Instagram,Yes,Yes,Mobile,72,Pants Item A,3,No,No,No,0.0,No,product_page,Pants
+user_0166,Sarah Phillips,sess_9751e11983,Instagram,Yes,Yes,Mobile,160,Pants Item X,2,No,No,No,0.0,No,product_page,Pants
+user_0187,Elizabeth Kent,sess_1471ef4616,Facebook,Yes,Yes,Mobile,215,Shorts Item B,1,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0157,Kathryn Soto,sess_c755d66e5d,Facebook,Yes,Yes,Desktop,95,Jeans Item Z,2,No,No,No,0.0,No,product_page,Jeans
+user_0211,Brandi Hill,sess_084366bec3,Instagram,Yes,Yes,Desktop,21,,0,No,No,No,0.0,No,landing_page,
+user_0342,Charles Sullivan,sess_37b312905d,Instagram,Yes,Yes,Desktop,493,Accessories Item X,1,Yes,Yes,No,0.0,No,checkout,Accessories
+user_0387,Joshua Mcdonald,sess_c6ba4d2540,Instagram,Yes,Yes,Mobile,111,Jeans Item Z,1,No,No,No,0.0,No,product_page,Jeans
+user_0207,Joseph Pruitt,sess_11aa654881,Google,Yes,Yes,Desktop,72,Accessories Item Z,4,No,No,No,0.0,No,product_page,Accessories
+user_0168,Brittany Hardy,sess_c615436e5e,Instagram,Yes,Yes,Desktop,93,T-Shirts Item A,5,No,No,No,0.0,No,product_page,T-Shirts
+user_0034,Michael Parrish,sess_e0162b51eb,Google,Yes,Yes,Mobile,150,Pants Item B,5,No,No,No,0.0,No,product_page,Pants
+user_0139,Ralph Buchanan,sess_c72a15bca9,Instagram,Yes,Yes,Mobile,342,Shorts Item Z,1,Yes,Yes,Yes,33.27,Yes,purchase_confirmation,Shorts
+user_0400,Kelly Reyes,sess_ced915c802,Facebook,No,No,Desktop,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0060,April Stevenson,sess_2e410ae4f5,Instagram,Yes,Yes,Mobile,887,T-Shirts Item X,1,Yes,Yes,Yes,23.08,No,purchase_confirmation,T-Shirts
+user_0326,Christopher Allen,sess_54867f4c5b,Instagram,Yes,Yes,Mobile,362,Pants Item Z,1,Yes,Yes,No,0.0,No,checkout,Pants
+user_0397,Jared Mitchell,sess_2021a160f3,Google,Yes,Yes,Mobile,157,T-Shirts Item A,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0297,Mark Brown,sess_645cf9f1c0,Google,Yes,Yes,Mobile,142,Pants Item B,2,No,No,No,0.0,No,product_page,Pants
+user_0039,Heather White,sess_67f2c24da2,Instagram,Yes,Yes,Mobile,319,Jeans Item X,3,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0206,Amanda Stanton,sess_fbda395bb8,Facebook,Yes,Yes,Mobile,248,Jeans Item Z,1,Yes,Yes,Yes,40.95,Yes,purchase_confirmation,Jeans
+user_0391,Kelly Hebert,sess_2b624d2537,Google,Yes,No,Mobile,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0041,William Ellison,sess_35fea81dc3,Google,Yes,Yes,Mobile,136,T-Shirts Item Z,1,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0095,John Olson,sess_5a13e72c5f,Instagram,Yes,Yes,Desktop,294,Hoodies Item Z,2,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0182,Jennifer Simon,sess_0666469f02,Facebook,Yes,Yes,Mobile,51,Shorts Item X,1,No,No,No,0.0,No,product_page,Shorts
+user_0091,Jesus Nguyen,sess_5cec22770f,Instagram,Yes,No,Mobile,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0108,Samantha Savage,sess_6e64fe41b2,Facebook,Yes,Yes,Mobile,68,Hoodies Item A,1,No,No,No,0.0,No,product_page,Hoodies
+user_0169,Tyler Hawkins,sess_75eec51cd3,Instagram,Yes,Yes,Mobile,94,Accessories Item B,5,No,No,No,0.0,No,product_page,Accessories
+user_0238,Kelly Patterson,sess_43f45fd086,Google,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0395,Joanne Elliott,sess_385134857c,Facebook,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0336,Stephen Lawson,sess_6209bcfdfb,Facebook,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0204,Jamie Diaz,sess_aa2f31c68b,Facebook,Yes,Yes,Mobile,149,T-Shirts Item Z,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0215,Alvin Ortega,sess_5147f8ce77,Instagram,Yes,Yes,Mobile,39,Jeans Item B,3,No,No,No,0.0,No,product_page,Jeans
+user_0326,Christopher Allen,sess_ee0b91e540,Instagram,Yes,Yes,Desktop,11,,0,No,No,No,0.0,No,landing_page,
+user_0315,Brian Casey,sess_6d2d8b09ab,Instagram,Yes,Yes,Mobile,223,Accessories Item B,2,Yes,Yes,Yes,13.51,Yes,purchase_confirmation,Accessories
+user_0019,Kevin Bryant,sess_53d5a89086,Facebook,Yes,Yes,Mobile,92,Pants Item B,1,No,No,No,0.0,No,product_page,Pants
+user_0281,Mark Daniels,sess_46f01e376a,Instagram,Yes,Yes,Mobile,414,Hoodies Item X,1,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0053,Dana Liu,sess_602bb009cf,Instagram,Yes,Yes,Mobile,21,,0,No,No,No,0.0,No,landing_page,
+user_0041,William Ellison,sess_b30ffe91a5,Facebook,Yes,Yes,Mobile,134,Accessories Item A,2,No,No,No,0.0,No,product_page,Accessories
+user_0002,Tyrone Hubbard,sess_4858a4aabe,Facebook,Yes,Yes,Mobile,71,Shorts Item B,2,No,No,No,0.0,No,product_page,Shorts
+user_0360,Deborah Green,sess_6c521ab3cc,Facebook,Yes,Yes,Mobile,294,Hoodies Item Z,3,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0244,Laura Cobb,sess_be44f33052,Instagram,Yes,Yes,Mobile,344,T-Shirts Item A,1,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0011,Bruce Potter,sess_9dc81e7050,Instagram,Yes,Yes,Desktop,172,Jeans Item B,1,No,No,No,0.0,No,product_page,Jeans
+user_0065,Jennifer Werner,sess_2c8c519024,Google,Yes,Yes,Mobile,249,Shorts Item Z,1,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0246,Richard Cannon,sess_77e880e960,Google,Yes,Yes,Mobile,74,T-Shirts Item Z,3,No,No,No,0.0,No,product_page,T-Shirts
+user_0086,Barry Garcia,sess_de770c0cc5,Instagram,Yes,Yes,Mobile,476,Hoodies Item A,2,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0302,James Carroll,sess_e17d4b0c74,Instagram,Yes,Yes,Desktop,145,Jeans Item A,2,No,No,No,0.0,No,product_page,Jeans
+user_0235,Samantha Moran,sess_2060b0f06d,Facebook,Yes,Yes,Mobile,719,Pants Item B,2,Yes,Yes,Yes,41.5,No,purchase_confirmation,Pants
+user_0206,Amanda Stanton,sess_2f129f544f,Instagram,Yes,Yes,Mobile,267,T-Shirts Item B,4,Yes,No,No,0.0,No,cart,T-Shirts
+user_0250,Jeffrey Taylor,sess_de4beb70e1,Facebook,Yes,Yes,Desktop,235,Pants Item X,1,Yes,No,No,0.0,No,cart,Pants
+user_0289,Robert Parker,sess_9ad128a4ec,Facebook,Yes,Yes,Mobile,22,,0,No,No,No,0.0,No,landing_page,
+user_0064,Angela Casey,sess_173de65014,Facebook,Yes,Yes,Mobile,270,Pants Item Z,2,Yes,No,No,0.0,No,cart,Pants
+user_0248,Corey Villegas,sess_fcdfb17e61,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0043,Aaron Bean,sess_486845dfd1,Google,Yes,Yes,Desktop,30,,0,No,No,No,0.0,No,landing_page,
+user_0348,Audrey Morgan,sess_e788a1af5d,Instagram,Yes,Yes,Mobile,529,Shorts Item X,1,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0058,Kathleen Haney,sess_e7c5523314,Instagram,Yes,Yes,Mobile,72,T-Shirts Item B,2,No,No,No,0.0,No,product_page,T-Shirts
+user_0378,Michelle Smith,sess_13b846b33c,Instagram,Yes,Yes,Mobile,177,Hoodies Item Z,2,No,No,No,0.0,No,product_page,Hoodies
+user_0247,Daniel Quinn,sess_2b180cd049,Instagram,No,No,Desktop,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0237,Carolyn Blackwell,sess_b671968ec3,Facebook,Yes,Yes,Mobile,82,Shorts Item A,2,No,No,No,0.0,No,product_page,Shorts
+user_0153,Scott Cook,sess_6b6bb5453a,Instagram,Yes,Yes,Mobile,127,Hoodies Item X,2,No,No,No,0.0,No,product_page,Hoodies
+user_0229,Robert Watson,sess_8ce5eaabde,Instagram,Yes,Yes,Desktop,484,T-Shirts Item A,5,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0103,Penny Moore,sess_946f0c4142,Instagram,Yes,Yes,Desktop,584,Shorts Item Z,2,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0286,Matthew Webster,sess_edcd2f986d,Facebook,Yes,Yes,Mobile,141,T-Shirts Item B,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0319,Scott Klein,sess_a42cc59339,Facebook,Yes,Yes,Mobile,105,Pants Item B,1,No,No,No,0.0,No,product_page,Pants
+user_0384,Elizabeth Thomas,sess_324f22924f,Instagram,Yes,Yes,Mobile,25,,0,No,No,No,0.0,No,landing_page,
+user_0352,Laura Johnson,sess_2295d9c927,Instagram,Yes,Yes,Mobile,596,Shorts Item B,5,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0052,April Clarke,sess_ce024a6db2,Facebook,Yes,Yes,Mobile,59,Pants Item A,1,No,No,No,0.0,No,product_page,Pants
+user_0054,Adam Owens,sess_58ad10eddf,Instagram,Yes,Yes,Desktop,274,T-Shirts Item B,1,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0033,Drew Walker,sess_9f3f236ea1,Facebook,Yes,Yes,Mobile,128,Shorts Item X,1,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0205,Melissa Hall,sess_19ff9b2254,Google,Yes,Yes,Mobile,235,T-Shirts Item X,1,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0345,Autumn Barker,sess_67770eb3bb,Instagram,Yes,Yes,Desktop,179,Jeans Item X,1,No,No,No,0.0,No,product_page,Jeans
+user_0098,Anthony Poole,sess_1fee284265,Instagram,Yes,Yes,Mobile,365,Jeans Item B,4,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0378,Michelle Smith,sess_d89db8d56c,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0364,Andrea Hawkins,sess_463f92ae8d,Instagram,Yes,Yes,Mobile,381,Pants Item B,3,Yes,Yes,No,0.0,No,checkout,Pants
+user_0263,Jonathan Newton,sess_2d40685671,Instagram,No,No,Desktop,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0359,Mitchell Flowers DDS,sess_29e3dc4ed6,Facebook,Yes,Yes,Mobile,175,Jeans Item Z,3,No,No,No,0.0,No,product_page,Jeans
+user_0264,Richard Morrison,sess_4277d1b94f,Facebook,Yes,Yes,Mobile,280,Hoodies Item B,4,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0103,Penny Moore,sess_67fb46a0b9,Instagram,Yes,Yes,Desktop,355,Hoodies Item A,2,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0033,Drew Walker,sess_5258f7cd62,Facebook,Yes,Yes,Mobile,521,Jeans Item Z,3,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0363,Tiffany Cole,sess_765531635b,Instagram,Yes,Yes,Mobile,362,Accessories Item B,2,Yes,Yes,No,0.0,No,checkout,Accessories
+user_0118,Katherine Barnett,sess_529691931a,Google,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0324,Isabella Nunez,sess_64c3657b6e,Facebook,Yes,Yes,Desktop,385,Accessories Item Z,1,Yes,Yes,No,0.0,No,checkout,Accessories
+user_0246,Richard Cannon,sess_aaa0bd2f2b,Instagram,Yes,Yes,Mobile,717,Jeans Item B,6,Yes,Yes,Yes,22.97,No,purchase_confirmation,Jeans
+user_0400,Kelly Reyes,sess_ec508af368,Facebook,Yes,Yes,Mobile,160,T-Shirts Item B,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0326,Christopher Allen,sess_9a47dfe412,Instagram,Yes,Yes,Mobile,793,Jeans Item B,1,Yes,Yes,Yes,47.98,No,purchase_confirmation,Jeans
+user_0291,Cynthia Sherman,sess_fa68638f97,Instagram,Yes,Yes,Mobile,292,Jeans Item X,5,Yes,No,No,0.0,No,cart,Jeans
+user_0331,Adam Gross,sess_601a67f917,Facebook,Yes,Yes,Desktop,190,Accessories Item X,1,Yes,Yes,No,0.0,No,checkout,Accessories
+user_0269,Christopher Spears,sess_2afc6454d0,Instagram,Yes,Yes,Mobile,226,Hoodies Item B,4,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0131,Paul Shea,sess_7b5bf7e40f,Facebook,Yes,No,Mobile,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0180,Jason West,sess_0617a85ea9,Instagram,Yes,Yes,Mobile,435,T-Shirts Item Z,1,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0224,Kimberly Turner,sess_28f44ddd94,Instagram,Yes,Yes,Mobile,86,Jeans Item A,1,No,No,No,0.0,No,product_page,Jeans
+user_0069,Jeffrey Hernandez,sess_4a1e722c93,Instagram,Yes,Yes,Mobile,370,Accessories Item B,1,Yes,Yes,No,0.0,No,checkout,Accessories
+user_0271,Michelle Parker,sess_c8bc697ee3,Instagram,Yes,Yes,Mobile,989,Shorts Item X,1,Yes,Yes,Yes,20.5,No,purchase_confirmation,Shorts
+user_0266,Annette Lee,sess_334bf23d35,Instagram,Yes,Yes,Mobile,131,Shorts Item Z,1,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0078,Carmen Rodriguez,sess_6d91232ad3,Google,Yes,Yes,Mobile,524,Accessories Item Z,1,Yes,Yes,No,0.0,No,checkout,Accessories
+user_0097,Joshua Blackburn,sess_b37487dc14,Facebook,Yes,Yes,Desktop,534,T-Shirts Item A,2,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0252,Misty Johnson,sess_46e4e7388f,Facebook,Yes,Yes,Mobile,147,T-Shirts Item X,5,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0245,Amber Park,sess_62b4ff39eb,Instagram,Yes,Yes,Desktop,689,Shorts Item B,1,Yes,Yes,Yes,23.79,No,purchase_confirmation,Shorts
+user_0189,Kristen Barron,sess_bdd3da3eff,Facebook,Yes,Yes,Desktop,70,Jeans Item Z,4,No,No,No,0.0,No,product_page,Jeans
+user_0005,Michael Price,sess_365c8d305b,Facebook,Yes,Yes,Mobile,519,T-Shirts Item Z,1,Yes,Yes,Yes,18.04,No,purchase_confirmation,T-Shirts
+user_0302,James Carroll,sess_a483453441,Facebook,Yes,Yes,Mobile,73,Hoodies Item Z,2,No,No,No,0.0,No,product_page,Hoodies
+user_0264,Richard Morrison,sess_1d4393878a,Google,Yes,Yes,Mobile,20,,0,No,No,No,0.0,No,landing_page,
+user_0344,Kenneth Holden,sess_983494c568,Instagram,Yes,Yes,Mobile,238,T-Shirts Item Z,1,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0380,Jordan Thomas,sess_733a6c27ac,Instagram,Yes,No,Desktop,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0387,Joshua Mcdonald,sess_fc1426d419,Google,Yes,Yes,Mobile,424,Jeans Item X,2,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0283,Curtis Nichols,sess_985301659c,Facebook,Yes,Yes,Mobile,76,Jeans Item Z,1,Yes,No,No,0.0,No,cart,Jeans
+user_0346,Derrick Giles,sess_7ddcb089da,Facebook,Yes,Yes,Mobile,655,Shorts Item A,2,Yes,Yes,Yes,14.78,No,purchase_confirmation,Shorts
+user_0244,Laura Cobb,sess_47186c694a,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0348,Audrey Morgan,sess_9dfac3cfc2,Facebook,Yes,Yes,Mobile,471,Shorts Item B,5,Yes,Yes,Yes,20.14,No,purchase_confirmation,Shorts
+user_0026,Christopher Baker,sess_d963f2f167,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0339,Erica Bradley,sess_d710990542,Instagram,Yes,Yes,Desktop,741,Jeans Item X,1,Yes,Yes,Yes,37.52,Yes,purchase_confirmation,Jeans
+user_0018,Richard Norton,sess_f3f6b1833c,Google,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0236,Brianna Hamilton,sess_fed74b43f9,Google,Yes,Yes,Mobile,143,Hoodies Item X,1,No,No,No,0.0,No,product_page,Hoodies
+user_0113,Michael Sims,sess_d5f2734430,Instagram,Yes,No,Mobile,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0073,Kathryn Hancock,sess_b21e198ce8,Instagram,Yes,Yes,Mobile,151,Accessories Item A,1,Yes,No,No,0.0,No,cart,Accessories
+user_0386,Maria Diaz,sess_b4b330b0ac,Instagram,Yes,Yes,Desktop,13,,0,No,No,No,0.0,No,landing_page,
+user_0225,Jonathan Salas,sess_f1c4af1ae3,Facebook,Yes,Yes,Desktop,150,Hoodies Item X,1,No,No,No,0.0,No,product_page,Hoodies
+user_0059,Leslie Walsh,sess_f914a039ce,Instagram,Yes,Yes,Mobile,160,Hoodies Item Z,1,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0295,Logan Thompson,sess_2e4563d20d,Facebook,No,No,Desktop,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0117,Jason Stephens,sess_a2c71ca96a,Google,Yes,Yes,Mobile,534,T-Shirts Item A,1,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0012,Troy Smith,sess_5e693fd378,Facebook,Yes,Yes,Mobile,165,Shorts Item B,1,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0075,Jennifer Johnson,sess_3cfff3c62b,Instagram,Yes,Yes,Mobile,660,Pants Item X,4,Yes,Yes,Yes,32.33,No,purchase_confirmation,Pants
+user_0122,Mr. Kyle Griffin MD,sess_10d73610c6,Facebook,Yes,Yes,Desktop,146,Shorts Item B,2,Yes,No,No,0.0,No,cart,Shorts
+user_0397,Jared Mitchell,sess_6baa4c8954,Instagram,Yes,Yes,Mobile,56,Shorts Item X,4,No,No,No,0.0,No,product_page,Shorts
+user_0086,Barry Garcia,sess_e69e34a437,Instagram,Yes,Yes,Mobile,52,Shorts Item X,1,No,No,No,0.0,No,product_page,Shorts
+user_0159,Gerald Reynolds,sess_73ce0d44fd,Instagram,Yes,Yes,Mobile,982,Pants Item A,1,Yes,Yes,Yes,32.17,No,purchase_confirmation,Pants
+user_0331,Adam Gross,sess_78baa40064,Facebook,Yes,Yes,Mobile,32,Shorts Item B,1,No,No,No,0.0,No,product_page,Shorts
+user_0392,George Stephens,sess_615e2dba29,Google,Yes,Yes,Mobile,911,Hoodies Item X,1,Yes,Yes,Yes,46.91,No,purchase_confirmation,Hoodies
+user_0355,Corey Dennis,sess_1c7bc66509,Instagram,Yes,Yes,Mobile,291,Accessories Item A,1,Yes,Yes,No,0.0,No,checkout,Accessories
+user_0067,Jonathan Dudley,sess_7fb0f437f9,Instagram,Yes,Yes,Mobile,108,Jeans Item B,3,No,No,No,0.0,No,product_page,Jeans
+user_0228,Mckenzie Boyd,sess_e02c271808,Instagram,Yes,Yes,Mobile,123,Jeans Item B,2,No,No,No,0.0,No,product_page,Jeans
+user_0163,Larry Boyle,sess_5f4dca8cb7,Instagram,Yes,Yes,Mobile,73,Hoodies Item X,1,No,No,No,0.0,No,product_page,Hoodies
+user_0148,Victor Simmons,sess_5a4b8704b9,Google,Yes,Yes,Mobile,11,,0,No,No,No,0.0,No,landing_page,
+user_0283,Curtis Nichols,sess_284ead2df9,Instagram,Yes,Yes,Mobile,416,Shorts Item X,2,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0356,Eric Herrera,sess_2fb05f1341,Facebook,Yes,Yes,Desktop,135,Jeans Item B,1,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0027,Kyle Jones,sess_8cc9b87b9f,Instagram,Yes,Yes,Mobile,100,T-Shirts Item Z,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0051,Rebecca Richards,sess_c575e5611d,Instagram,Yes,Yes,Mobile,593,Jeans Item A,6,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0299,Sarah Jacobs,sess_7925b761d9,Instagram,Yes,Yes,Mobile,230,Jeans Item A,2,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0159,Gerald Reynolds,sess_2955aa6573,Instagram,Yes,Yes,Mobile,221,Hoodies Item Z,1,Yes,No,No,0.0,No,cart,Hoodies
+user_0364,Andrea Hawkins,sess_3f27489fe8,Instagram,Yes,Yes,Desktop,96,Shorts Item A,4,No,No,No,0.0,No,product_page,Shorts
+user_0220,Jared Gomez,sess_f19db06456,Instagram,Yes,Yes,Mobile,432,T-Shirts Item A,1,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0338,Joseph Carrillo,sess_1eb61fbc50,Instagram,Yes,Yes,Desktop,424,Hoodies Item Z,2,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0237,Carolyn Blackwell,sess_b651616260,Instagram,Yes,Yes,Mobile,88,Jeans Item A,1,No,No,No,0.0,No,product_page,Jeans
+user_0359,Mitchell Flowers DDS,sess_c597cc8b3a,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0256,Brittany Diaz DDS,sess_c76223f609,Facebook,Yes,No,Mobile,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0191,Deborah Hoffman,sess_ea5c633770,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0382,Christina Rangel,sess_35144d63ae,Instagram,Yes,Yes,Desktop,117,Shorts Item Z,1,No,No,No,0.0,No,product_page,Shorts
+user_0341,Michael Moore,sess_abaa450f14,Instagram,Yes,Yes,Mobile,17,,0,No,No,No,0.0,No,landing_page,
+user_0112,Beth Ford,sess_f4082afed0,Facebook,Yes,Yes,Mobile,12,,0,No,No,No,0.0,No,landing_page,
+user_0003,Candice Acevedo,sess_ada50061f7,Google,Yes,No,Desktop,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0337,Scott Graves,sess_8b3ba74687,Google,Yes,Yes,Mobile,312,T-Shirts Item X,2,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0057,Eric Patel,sess_12ab419e70,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0289,Robert Parker,sess_28ce264c7a,Instagram,Yes,Yes,Mobile,126,Hoodies Item Z,2,No,No,No,0.0,No,product_page,Hoodies
+user_0283,Curtis Nichols,sess_973fec8a86,Facebook,Yes,Yes,Mobile,353,T-Shirts Item X,3,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0155,Patrick Braun,sess_0b92fe8b63,Instagram,Yes,Yes,Desktop,110,T-Shirts Item X,4,No,No,No,0.0,No,product_page,T-Shirts
+user_0074,Spencer Norris,sess_0948f93ba0,Instagram,Yes,Yes,Desktop,395,Shorts Item B,1,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0083,Patricia Robinson,sess_09d8162587,Facebook,Yes,Yes,Mobile,167,Pants Item X,2,Yes,No,No,0.0,No,cart,Pants
+user_0308,Michael Wang,sess_fd104aef15,Instagram,Yes,Yes,Mobile,265,Hoodies Item B,1,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0087,David Kelley,sess_e63a68a72c,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0049,Jacob White,sess_3cba899830,Instagram,Yes,Yes,Mobile,460,T-Shirts Item X,1,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0287,Stephanie Braun,sess_d368a01cf5,Facebook,Yes,Yes,Mobile,114,T-Shirts Item Z,3,No,No,No,0.0,No,product_page,T-Shirts
+user_0259,Robert Mcdonald,sess_dee983ebfd,Instagram,Yes,Yes,Mobile,559,Jeans Item B,2,Yes,Yes,Yes,31.45,No,purchase_confirmation,Jeans
+user_0020,Ryan Williams,sess_ec0550cbcb,Instagram,Yes,Yes,Desktop,123,Jeans Item A,1,No,No,No,0.0,No,product_page,Jeans
+user_0173,Carrie Garcia,sess_a45b49fc0f,Instagram,Yes,Yes,Desktop,458,Hoodies Item A,1,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0089,John Allen,sess_45bea9a0ee,Instagram,Yes,No,Desktop,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0191,Deborah Hoffman,sess_b9b312e016,Instagram,Yes,Yes,Mobile,897,T-Shirts Item B,1,Yes,Yes,Yes,23.79,No,purchase_confirmation,T-Shirts
+user_0133,Gabriel Ewing,sess_343a643621,Facebook,No,No,Desktop,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0235,Samantha Moran,sess_11b17a647e,Google,Yes,No,Mobile,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0143,Christine Ramirez,sess_8dd50e80ec,Instagram,Yes,Yes,Desktop,474,Accessories Item A,1,Yes,Yes,No,0.0,No,checkout,Accessories
+user_0065,Jennifer Werner,sess_02f556dea7,Google,Yes,Yes,Mobile,109,Pants Item B,1,No,No,No,0.0,No,product_page,Pants
+user_0382,Christina Rangel,sess_a3f6231427,Instagram,Yes,Yes,Mobile,431,Pants Item A,1,Yes,Yes,No,0.0,No,checkout,Pants
+user_0041,William Ellison,sess_e27a82effa,Facebook,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0131,Paul Shea,sess_7b91cf61ff,Instagram,Yes,Yes,Desktop,782,T-Shirts Item X,1,Yes,Yes,Yes,22.68,No,purchase_confirmation,T-Shirts
+user_0357,James Robinson,sess_36094b9fed,Google,Yes,Yes,Mobile,267,T-Shirts Item X,2,Yes,No,No,0.0,No,cart,T-Shirts
+user_0244,Laura Cobb,sess_3c09030a0a,Facebook,Yes,Yes,Mobile,120,Jeans Item A,4,No,No,No,0.0,No,product_page,Jeans
+user_0117,Jason Stephens,sess_a8f4e55794,Google,Yes,Yes,Mobile,133,T-Shirts Item X,2,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0330,Leroy Hunt,sess_e35dd4a53d,Google,Yes,Yes,Desktop,197,Shorts Item B,1,Yes,No,No,0.0,No,cart,Shorts
+user_0298,Elizabeth Peterson,sess_68c4eafc62,Instagram,Yes,Yes,Mobile,1073,Shorts Item A,2,Yes,Yes,Yes,19.95,No,purchase_confirmation,Shorts
+user_0025,Michelle Marsh,sess_9101407f81,Instagram,Yes,Yes,Mobile,155,T-Shirts Item Z,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0270,Brooke Holden,sess_c41ad06ed7,Google,Yes,Yes,Desktop,63,T-Shirts Item A,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0186,Jessica Sawyer,sess_a8136e163b,Google,Yes,Yes,Mobile,53,Jeans Item A,1,No,No,No,0.0,No,product_page,Jeans
+user_0141,Michele Rogers,sess_104cc6c471,Facebook,Yes,Yes,Mobile,84,Pants Item A,3,No,No,No,0.0,No,product_page,Pants
+user_0356,Eric Herrera,sess_cf787891ee,Facebook,Yes,Yes,Mobile,555,Shorts Item B,1,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0059,Leslie Walsh,sess_883957acd6,Instagram,Yes,Yes,Mobile,1020,T-Shirts Item A,1,Yes,Yes,Yes,29.51,No,purchase_confirmation,T-Shirts
+user_0375,Robert Hughes,sess_b9a6c64c2e,Facebook,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0110,Jennifer Dunn,sess_23f4431bfb,Instagram,Yes,Yes,Mobile,172,Pants Item X,1,No,No,No,0.0,No,product_page,Pants
+user_0390,Scott Esparza,sess_0a178aae12,Facebook,Yes,Yes,Desktop,578,Shorts Item B,1,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0259,Robert Mcdonald,sess_22fe2b05bc,Facebook,Yes,Yes,Mobile,244,Jeans Item Z,1,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0341,Michael Moore,sess_603f2d6349,Facebook,Yes,Yes,Mobile,11,,0,No,No,No,0.0,No,landing_page,
+user_0002,Tyrone Hubbard,sess_dd2e6348c0,Google,Yes,Yes,Desktop,57,Jeans Item B,1,No,No,No,0.0,No,product_page,Jeans
+user_0081,Michele Stokes,sess_e27ca0ed93,Instagram,Yes,Yes,Mobile,164,Shorts Item X,1,No,No,No,0.0,No,product_page,Shorts
+user_0329,Carolyn Shields,sess_7ad33cf429,Instagram,Yes,No,Desktop,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0398,Elizabeth Mayer,sess_cbc3418780,Facebook,Yes,Yes,Desktop,160,Pants Item X,1,No,No,No,0.0,No,product_page,Pants
+user_0383,Ricky Petersen,sess_b0844e7fd3,Facebook,Yes,Yes,Mobile,124,Pants Item X,6,No,No,No,0.0,No,product_page,Pants
+user_0053,Dana Liu,sess_0000284a3b,Facebook,Yes,Yes,Mobile,837,T-Shirts Item X,2,Yes,Yes,Yes,18.57,No,purchase_confirmation,T-Shirts
+user_0104,Barbara Smith,sess_8d87a8d07b,Google,Yes,Yes,Desktop,137,Shorts Item Z,2,No,No,No,0.0,No,product_page,Shorts
+user_0345,Autumn Barker,sess_311fdc30d2,Instagram,Yes,Yes,Mobile,92,T-Shirts Item B,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0250,Jeffrey Taylor,sess_055a18a266,Google,Yes,Yes,Mobile,494,Shorts Item Z,3,Yes,Yes,Yes,5.0,No,purchase_confirmation,Shorts
+user_0347,Michelle Harrison,sess_8f62538d68,Instagram,Yes,Yes,Desktop,8,,0,No,No,No,0.0,No,landing_page,
+user_0136,Donald Garcia,sess_6fd1303007,Instagram,Yes,Yes,Desktop,148,Accessories Item Z,2,No,No,No,0.0,No,product_page,Accessories
+user_0135,Michael Ashley,sess_c0a7de3125,Instagram,Yes,Yes,Desktop,10,,0,No,No,No,0.0,No,landing_page,
+user_0231,Michael Holmes,sess_b243ca2d4c,Facebook,Yes,Yes,Mobile,83,Shorts Item Z,1,No,No,No,0.0,No,product_page,Shorts
+user_0201,Jennifer Baker,sess_a52244483b,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0299,Sarah Jacobs,sess_da32885c87,Facebook,Yes,Yes,Mobile,74,Pants Item X,3,No,No,No,0.0,No,product_page,Pants
+user_0141,Michele Rogers,sess_d8acce52a4,Instagram,Yes,No,Desktop,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0110,Jennifer Dunn,sess_bf10569fd8,Facebook,Yes,Yes,Desktop,309,Hoodies Item B,4,Yes,Yes,Yes,54.19,No,purchase_confirmation,Hoodies
+user_0240,William Bartlett,sess_32a6b4c048,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0154,Erica Hogan,sess_5c3a5ce0bc,Facebook,Yes,Yes,Mobile,74,T-Shirts Item A,2,No,No,No,0.0,No,product_page,T-Shirts
+user_0329,Carolyn Shields,sess_c413556f08,Google,Yes,Yes,Desktop,233,Shorts Item A,1,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0117,Jason Stephens,sess_ef4c0dd9b6,Instagram,Yes,Yes,Desktop,159,Jeans Item Z,4,No,No,No,0.0,No,product_page,Jeans
+user_0248,Corey Villegas,sess_a6217db58e,Instagram,Yes,Yes,Mobile,117,Shorts Item A,3,No,No,No,0.0,No,product_page,Shorts
+user_0326,Christopher Allen,sess_ec858ae100,Instagram,Yes,Yes,Desktop,14,,0,No,No,No,0.0,No,landing_page,
+user_0288,Lindsay Gomez,sess_21f1ee1d05,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0248,Corey Villegas,sess_0381d20925,Facebook,Yes,Yes,Mobile,142,Pants Item B,1,No,No,No,0.0,No,product_page,Pants
+user_0392,George Stephens,sess_a8f4af95f0,Facebook,Yes,Yes,Desktop,461,Jeans Item Z,2,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0079,Brianna Parker,sess_8531fb7eab,Google,Yes,Yes,Mobile,113,Hoodies Item A,1,Yes,No,No,0.0,No,cart,Hoodies
+user_0362,Tonya Romero,sess_f754db59a6,Instagram,Yes,Yes,Mobile,151,Accessories Item X,1,Yes,No,No,0.0,No,cart,Accessories
+user_0042,Jacob Martinez,sess_b30253dcae,Facebook,Yes,Yes,Desktop,177,Jeans Item Z,5,No,No,No,0.0,No,product_page,Jeans
+user_0095,John Olson,sess_ffbe674868,Google,Yes,Yes,Mobile,133,Shorts Item A,1,No,No,No,0.0,No,product_page,Shorts
+user_0037,Danielle Burke,sess_b73a259c2c,Instagram,Yes,Yes,Desktop,96,T-Shirts Item X,2,No,No,No,0.0,No,product_page,T-Shirts
+user_0180,Jason West,sess_765e184892,Instagram,Yes,Yes,Mobile,107,T-Shirts Item Z,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0123,Ashley Burns,sess_1d69befccd,Instagram,Yes,Yes,Mobile,830,Jeans Item A,1,Yes,Yes,Yes,45.68,No,purchase_confirmation,Jeans
+user_0354,Bonnie Evans,sess_f758c10e72,Google,Yes,Yes,Mobile,356,Shorts Item B,1,Yes,Yes,Yes,22.4,No,purchase_confirmation,Shorts
+user_0333,Susan Wright,sess_fbb2529d5c,Instagram,Yes,Yes,Mobile,1061,Jeans Item X,2,Yes,Yes,Yes,29.07,No,purchase_confirmation,Jeans
+user_0153,Scott Cook,sess_503f8808af,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0224,Kimberly Turner,sess_4090631d9d,Google,Yes,Yes,Mobile,119,Jeans Item X,1,Yes,No,No,0.0,No,cart,Jeans
+user_0134,Cody Porter,sess_c5ef68f7a2,Instagram,Yes,Yes,Desktop,1035,Jeans Item X,1,Yes,Yes,Yes,23.16,No,purchase_confirmation,Jeans
+user_0184,Debbie Buchanan,sess_0d1cf9f093,Google,Yes,Yes,Mobile,42,Hoodies Item Z,1,No,No,No,0.0,No,product_page,Hoodies
+user_0101,Kelly Andrews,sess_66591236a5,Google,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0157,Kathryn Soto,sess_d707be69f5,Facebook,No,No,Desktop,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0038,Jacob Miller,sess_05781c775b,Instagram,Yes,Yes,Mobile,168,T-Shirts Item A,3,No,No,No,0.0,No,product_page,T-Shirts
+user_0202,Shannon Olson,sess_a6b18ee224,Instagram,Yes,Yes,Desktop,121,Jeans Item X,1,No,No,No,0.0,No,product_page,Jeans
+user_0181,Joe Thomas,sess_60c7c6b310,Facebook,Yes,Yes,Mobile,93,Shorts Item X,4,No,No,No,0.0,No,product_page,Shorts
+user_0052,April Clarke,sess_6c38c34d8a,Instagram,Yes,Yes,Desktop,154,Jeans Item Z,1,No,No,No,0.0,No,product_page,Jeans
+user_0051,Rebecca Richards,sess_4d1989b170,Instagram,Yes,Yes,Mobile,47,Pants Item X,3,No,No,No,0.0,No,product_page,Pants
+user_0115,Alyssa Wong,sess_1e44181820,Instagram,Yes,Yes,Mobile,24,,0,No,No,No,0.0,No,landing_page,
+user_0194,Caitlin Schneider,sess_93d539b86a,Google,No,No,Desktop,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0351,Curtis Bell,sess_66e57c8625,Instagram,Yes,Yes,Mobile,19,,0,No,No,No,0.0,No,landing_page,
+user_0183,Bianca Zamora,sess_9089c61515,Google,Yes,Yes,Desktop,14,,0,No,No,No,0.0,No,landing_page,
+user_0191,Deborah Hoffman,sess_6e42651a3c,Facebook,Yes,Yes,Desktop,114,Hoodies Item A,1,No,No,No,0.0,No,product_page,Hoodies
+user_0203,Lisa Estrada,sess_186fd47aa1,Google,Yes,Yes,Desktop,120,Hoodies Item B,1,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0026,Christopher Baker,sess_0593215316,Instagram,Yes,Yes,Mobile,30,,0,No,No,No,0.0,No,landing_page,
+user_0054,Adam Owens,sess_3c9209e7b4,Instagram,Yes,Yes,Desktop,10,,0,No,No,No,0.0,No,landing_page,
+user_0100,Jeffrey Crawford,sess_7b1c97d13c,Instagram,Yes,Yes,Mobile,313,Jeans Item B,2,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0176,Lori James,sess_46e355e360,Facebook,Yes,Yes,Mobile,519,T-Shirts Item B,1,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0372,Eric Nelson,sess_6b1c4c9fec,Facebook,Yes,Yes,Desktop,217,Shorts Item B,1,Yes,No,No,0.0,No,cart,Shorts
+user_0031,Matthew Reyes,sess_0ef0025c7d,Instagram,Yes,Yes,Mobile,313,Jeans Item X,1,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0250,Jeffrey Taylor,sess_02894ba82c,Facebook,Yes,Yes,Mobile,455,T-Shirts Item X,1,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0095,John Olson,sess_a9b37128ef,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0315,Brian Casey,sess_2ba7d75442,Google,Yes,No,Desktop,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0327,Jennifer Smith,sess_5d6b8b74f3,Google,Yes,Yes,Desktop,72,Jeans Item X,1,No,No,No,0.0,No,product_page,Jeans
+user_0115,Alyssa Wong,sess_0ab3ee62b9,Instagram,Yes,Yes,Desktop,5,,0,No,No,No,0.0,No,landing_page,
+user_0194,Caitlin Schneider,sess_526dfd4375,Instagram,Yes,Yes,Mobile,35,Shorts Item Z,1,No,No,No,0.0,No,product_page,Shorts
+user_0202,Shannon Olson,sess_73705e2bec,Instagram,Yes,Yes,Desktop,419,Hoodies Item A,1,Yes,Yes,Yes,5.0,No,purchase_confirmation,Hoodies
+user_0030,Thomas Davis,sess_2dfc04b99e,Google,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0124,Christy Parsons,sess_a5f79e1dcb,Google,Yes,Yes,Mobile,424,Jeans Item A,2,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0265,Sylvia Wilkerson MD,sess_fd2a2389b9,Instagram,Yes,Yes,Mobile,59,Jeans Item X,1,No,No,No,0.0,No,product_page,Jeans
+user_0109,Amy Golden,sess_1a747fcf31,Instagram,Yes,Yes,Desktop,162,Hoodies Item A,7,No,No,No,0.0,No,product_page,Hoodies
+user_0149,Megan Rodgers,sess_bfcddd6347,Facebook,Yes,Yes,Desktop,316,Hoodies Item B,1,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0340,Glen Wells,sess_e7521068ac,Google,Yes,Yes,Desktop,155,Hoodies Item Z,3,Yes,No,No,0.0,No,cart,Hoodies
+user_0012,Troy Smith,sess_0d905797e6,Google,Yes,Yes,Mobile,74,T-Shirts Item Z,4,Yes,No,No,0.0,No,cart,T-Shirts
+user_0064,Angela Casey,sess_60b2120969,Facebook,Yes,Yes,Mobile,40,Pants Item B,2,No,No,No,0.0,No,product_page,Pants
+user_0323,Ashley Proctor,sess_f024b22160,Facebook,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0392,George Stephens,sess_5926f231b6,Facebook,Yes,Yes,Mobile,50,Hoodies Item X,1,No,No,No,0.0,No,product_page,Hoodies
+user_0140,Kenneth Hernandez,sess_21e5fca656,Instagram,Yes,Yes,Mobile,84,Pants Item A,1,No,No,No,0.0,No,product_page,Pants
+user_0364,Andrea Hawkins,sess_e7217fee7c,Instagram,Yes,Yes,Mobile,171,Shorts Item B,1,No,No,No,0.0,No,product_page,Shorts
+user_0027,Kyle Jones,sess_b5b08e7499,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0223,Felicia Walsh,sess_308b552edd,Facebook,Yes,Yes,Mobile,189,Pants Item B,1,Yes,Yes,No,0.0,No,checkout,Pants
+user_0207,Joseph Pruitt,sess_e7b8da28f8,Facebook,Yes,No,Mobile,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0124,Christy Parsons,sess_06a7d5edc0,Instagram,Yes,Yes,Mobile,83,T-Shirts Item X,2,No,No,No,0.0,No,product_page,T-Shirts
+user_0045,Ashley Mcdowell,sess_e62069f064,Facebook,Yes,Yes,Mobile,37,Shorts Item X,2,No,No,No,0.0,No,product_page,Shorts
+user_0181,Joe Thomas,sess_60a2919c43,Instagram,Yes,Yes,Mobile,195,Pants Item X,2,Yes,Yes,No,0.0,No,checkout,Pants
+user_0003,Candice Acevedo,sess_d9db943ca6,Google,Yes,Yes,Desktop,51,Pants Item B,1,No,No,No,0.0,No,product_page,Pants
+user_0206,Amanda Stanton,sess_a0563d7e9c,Facebook,Yes,Yes,Mobile,295,Jeans Item B,4,Yes,No,No,0.0,No,cart,Jeans
+user_0143,Christine Ramirez,sess_78cd81a83a,Instagram,Yes,Yes,Mobile,167,Pants Item A,1,No,No,No,0.0,No,product_page,Pants
+user_0164,Amber Mccann,sess_2256ae3119,Instagram,Yes,Yes,Mobile,262,Jeans Item B,2,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0111,Charles Taylor,sess_350a99c767,Google,Yes,Yes,Mobile,64,T-Shirts Item Z,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0344,Kenneth Holden,sess_049bf7f0a8,Google,Yes,Yes,Mobile,996,Jeans Item Z,1,Yes,Yes,Yes,39.0,No,purchase_confirmation,Jeans
+user_0240,William Bartlett,sess_7ad843e61a,Google,Yes,Yes,Mobile,102,T-Shirts Item X,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0154,Erica Hogan,sess_5024116193,Instagram,Yes,Yes,Mobile,112,Shorts Item Z,1,No,No,No,0.0,No,product_page,Shorts
+user_0043,Aaron Bean,sess_6413ad9202,Facebook,Yes,Yes,Desktop,75,Pants Item X,1,No,No,No,0.0,No,product_page,Pants
+user_0364,Andrea Hawkins,sess_849eab39b9,Google,Yes,No,Mobile,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0012,Troy Smith,sess_d8ec8d719f,Instagram,Yes,Yes,Desktop,27,,0,No,No,No,0.0,No,landing_page,
+user_0296,Jeffery Perez,sess_5fbd166133,Instagram,Yes,Yes,Desktop,21,,0,No,No,No,0.0,No,landing_page,
+user_0310,Penny Copeland,sess_ca331adcfe,Instagram,Yes,No,Mobile,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0025,Michelle Marsh,sess_75db2d0bd8,Facebook,Yes,Yes,Mobile,41,Pants Item X,3,No,No,No,0.0,No,product_page,Pants
+user_0143,Christine Ramirez,sess_015eb312c9,Facebook,Yes,Yes,Mobile,1184,Accessories Item X,1,Yes,Yes,Yes,20.63,No,purchase_confirmation,Accessories
+user_0080,Randall Hernandez,sess_0f96614294,Instagram,Yes,Yes,Desktop,182,Shorts Item A,1,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0201,Jennifer Baker,sess_ad18561a7c,Facebook,Yes,Yes,Mobile,414,Jeans Item X,1,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0053,Dana Liu,sess_6a0ebecdc1,Instagram,Yes,Yes,Desktop,409,T-Shirts Item A,1,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0033,Drew Walker,sess_b07bf458f0,Facebook,Yes,Yes,Mobile,84,T-Shirts Item X,2,No,No,No,0.0,No,product_page,T-Shirts
+user_0126,Brian Smith,sess_d6365bf44d,Facebook,Yes,Yes,Mobile,505,T-Shirts Item A,2,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0280,Wendy Lawson,sess_22786704f1,Instagram,Yes,Yes,Mobile,213,Accessories Item X,1,Yes,No,No,0.0,No,cart,Accessories
+user_0096,Kenneth Allen,sess_d27acd8a53,Instagram,Yes,Yes,Mobile,62,Jeans Item B,1,No,No,No,0.0,No,product_page,Jeans
+user_0059,Leslie Walsh,sess_3124fecc7a,Instagram,Yes,Yes,Desktop,171,T-Shirts Item X,3,No,No,No,0.0,No,product_page,T-Shirts
+user_0324,Isabella Nunez,sess_3680ffeb74,Facebook,Yes,Yes,Mobile,117,Shorts Item B,4,No,No,No,0.0,No,product_page,Shorts
+user_0118,Katherine Barnett,sess_fa301216f6,Instagram,Yes,Yes,Mobile,67,T-Shirts Item A,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0213,Heather Kemp,sess_dd184df68f,Instagram,Yes,Yes,Mobile,213,Jeans Item Z,1,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0305,Ana Carter,sess_68f9c85044,Instagram,Yes,Yes,Mobile,35,Jeans Item X,1,No,No,No,0.0,No,product_page,Jeans
+user_0382,Christina Rangel,sess_441bca85ce,Instagram,Yes,Yes,Desktop,160,Pants Item X,2,No,No,No,0.0,No,product_page,Pants
+user_0384,Elizabeth Thomas,sess_220f67146a,Instagram,Yes,Yes,Mobile,278,Jeans Item B,1,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0183,Bianca Zamora,sess_7e908146f1,Instagram,Yes,Yes,Mobile,62,Pants Item A,2,No,No,No,0.0,No,product_page,Pants
+user_0140,Kenneth Hernandez,sess_2a47287db4,Facebook,Yes,Yes,Mobile,601,T-Shirts Item B,4,Yes,Yes,Yes,23.21,Yes,purchase_confirmation,T-Shirts
+user_0140,Kenneth Hernandez,sess_99c1733fcf,Google,Yes,Yes,Mobile,277,T-Shirts Item B,2,Yes,No,No,0.0,No,cart,T-Shirts
+user_0375,Robert Hughes,sess_ca84894693,Google,Yes,Yes,Mobile,583,Accessories Item Z,1,Yes,Yes,No,0.0,No,checkout,Accessories
+user_0237,Carolyn Blackwell,sess_aa6161252e,Instagram,Yes,Yes,Mobile,23,,0,No,No,No,0.0,No,landing_page,
+user_0079,Brianna Parker,sess_04c5d6dd6b,Instagram,Yes,Yes,Desktop,213,Shorts Item Z,2,Yes,No,No,0.0,No,cart,Shorts
+user_0100,Jeffrey Crawford,sess_19f83235dd,Instagram,Yes,Yes,Desktop,7,,0,No,No,No,0.0,No,landing_page,
+user_0312,Sierra Odonnell,sess_1a2eacc993,Google,Yes,Yes,Mobile,343,Hoodies Item A,1,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0240,William Bartlett,sess_8765f94a1f,Google,Yes,Yes,Desktop,173,T-Shirts Item B,2,Yes,No,No,0.0,No,cart,T-Shirts
+user_0090,Tracy Donaldson,sess_1ade3da68d,Instagram,Yes,Yes,Mobile,110,Jeans Item B,3,No,No,No,0.0,No,product_page,Jeans
+user_0152,Jim Garza,sess_9610df597b,Facebook,No,No,Desktop,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0289,Robert Parker,sess_5ab81078bc,Facebook,Yes,Yes,Mobile,504,T-Shirts Item B,1,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0091,Jesus Nguyen,sess_b80dc40d3d,Instagram,Yes,Yes,Mobile,121,Shorts Item X,1,Yes,No,No,0.0,No,cart,Shorts
+user_0046,Angelica Buckley,sess_e30b76bcf1,Google,Yes,Yes,Desktop,60,T-Shirts Item Z,4,No,No,No,0.0,No,product_page,T-Shirts
+user_0196,Casey George,sess_668ff93562,Facebook,Yes,Yes,Mobile,35,Shorts Item Z,5,No,No,No,0.0,No,product_page,Shorts
+user_0232,Eddie Mcbride,sess_680285fac7,Instagram,Yes,Yes,Desktop,25,,0,No,No,No,0.0,No,landing_page,
+user_0066,Kim Buckley,sess_f733fa8b65,Instagram,Yes,Yes,Desktop,102,Shorts Item X,3,No,No,No,0.0,No,product_page,Shorts
+user_0296,Jeffery Perez,sess_57e4bf376b,Facebook,Yes,Yes,Mobile,426,Shorts Item Z,1,Yes,Yes,Yes,24.96,No,purchase_confirmation,Shorts
+user_0047,Karen Hughes,sess_ec3b9ff270,Instagram,Yes,Yes,Desktop,598,T-Shirts Item Z,1,Yes,Yes,Yes,17.08,No,purchase_confirmation,T-Shirts
+user_0162,Logan Henderson,sess_cefb619fba,Instagram,Yes,Yes,Mobile,148,Jeans Item A,1,No,No,No,0.0,No,product_page,Jeans
+user_0060,April Stevenson,sess_91db73de97,Facebook,Yes,No,Mobile,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0070,Frank Campbell,sess_c311d83f09,Instagram,Yes,Yes,Mobile,150,Accessories Item B,3,No,No,No,0.0,No,product_page,Accessories
+user_0173,Carrie Garcia,sess_5c8200d5f7,Instagram,Yes,Yes,Desktop,154,T-Shirts Item X,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0192,Tracy Pearson,sess_c5ab9ab85f,Facebook,Yes,Yes,Desktop,356,Jeans Item A,2,Yes,Yes,Yes,24.73,No,purchase_confirmation,Jeans
+user_0250,Jeffrey Taylor,sess_f8e59deca7,Instagram,Yes,Yes,Mobile,422,Hoodies Item B,1,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0207,Joseph Pruitt,sess_e5492da4f8,Facebook,Yes,Yes,Mobile,158,Pants Item B,1,No,No,No,0.0,No,product_page,Pants
+user_0348,Audrey Morgan,sess_483b8068e4,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0335,Robert Carlson,sess_599acee1fb,Google,Yes,Yes,Desktop,132,Shorts Item A,1,No,No,No,0.0,No,product_page,Shorts
+user_0098,Anthony Poole,sess_fbbb15bde9,Instagram,Yes,Yes,Desktop,297,Pants Item Z,1,Yes,No,No,0.0,No,cart,Pants
+user_0193,Jeffrey Meza,sess_a5b430fc59,Instagram,Yes,Yes,Mobile,5,,0,No,No,No,0.0,No,landing_page,
+user_0275,Vanessa Silva,sess_8cf4c2f856,Instagram,Yes,Yes,Mobile,97,Pants Item A,1,No,No,No,0.0,No,product_page,Pants
+user_0358,Scott Reeves,sess_4d1fb83c27,Facebook,Yes,Yes,Mobile,204,Accessories Item X,1,Yes,Yes,No,0.0,No,checkout,Accessories
+user_0318,Jared Lopez,sess_cfbf6cfbd8,Instagram,Yes,Yes,Mobile,23,,0,No,No,No,0.0,No,landing_page,
+user_0338,Joseph Carrillo,sess_0f91883251,Facebook,Yes,Yes,Mobile,93,Hoodies Item B,1,No,No,No,0.0,No,product_page,Hoodies
+user_0183,Bianca Zamora,sess_3b6117b14a,Instagram,No,No,Desktop,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0022,Carolyn Mora,sess_4f976cae97,Facebook,Yes,Yes,Desktop,234,Jeans Item A,3,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0369,Patrick Ross,sess_4ea5542566,Google,Yes,Yes,Desktop,444,Pants Item B,2,Yes,Yes,No,0.0,No,checkout,Pants
+user_0038,Jacob Miller,sess_1c71c3fea7,Instagram,Yes,Yes,Mobile,349,T-Shirts Item Z,1,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0124,Christy Parsons,sess_9c333cd4ec,Instagram,Yes,Yes,Mobile,316,Shorts Item A,1,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0058,Kathleen Haney,sess_0d921220d7,Facebook,Yes,Yes,Mobile,150,T-Shirts Item A,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0367,Alexander Simpson,sess_0bfd3a8346,Google,Yes,Yes,Mobile,11,,0,No,No,No,0.0,No,landing_page,
+user_0234,Sally Harrington,sess_11a055b6bd,Instagram,Yes,Yes,Mobile,51,Jeans Item Z,3,No,No,No,0.0,No,product_page,Jeans
+user_0240,William Bartlett,sess_cf03f3c354,Instagram,Yes,Yes,Mobile,154,Jeans Item A,2,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0367,Alexander Simpson,sess_c0ef24995e,Instagram,Yes,Yes,Desktop,1047,Hoodies Item Z,1,Yes,Yes,Yes,39.97,No,purchase_confirmation,Hoodies
+user_0080,Randall Hernandez,sess_a0c71f1731,Google,Yes,Yes,Mobile,23,,0,No,No,No,0.0,No,landing_page,
+user_0246,Richard Cannon,sess_1579744cd1,Google,Yes,Yes,Desktop,385,T-Shirts Item Z,1,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0171,Miranda Doyle,sess_80ceb99cc0,Facebook,Yes,Yes,Mobile,140,Hoodies Item B,7,No,No,No,0.0,No,product_page,Hoodies
+user_0055,Dr. Dana Norris DDS,sess_e90d1ee7ba,Google,Yes,Yes,Mobile,428,Pants Item B,1,Yes,Yes,No,0.0,No,checkout,Pants
+user_0237,Carolyn Blackwell,sess_ebb6dd7f08,Instagram,Yes,Yes,Desktop,512,Shorts Item B,1,Yes,Yes,Yes,26.66,No,purchase_confirmation,Shorts
+user_0145,Rose Gonzalez,sess_c5684a7885,Instagram,Yes,Yes,Desktop,100,Hoodies Item Z,5,Yes,No,No,0.0,No,cart,Hoodies
+user_0079,Brianna Parker,sess_029a246afc,Facebook,Yes,Yes,Mobile,1025,Accessories Item X,3,Yes,Yes,Yes,12.6,No,purchase_confirmation,Accessories
+user_0096,Kenneth Allen,sess_906e87d0a5,Google,Yes,Yes,Mobile,269,Pants Item A,3,Yes,Yes,No,0.0,No,checkout,Pants
+user_0254,David Gutierrez,sess_c06ae8d134,Instagram,Yes,Yes,Mobile,452,Hoodies Item X,1,Yes,Yes,Yes,61.84,No,purchase_confirmation,Hoodies
+user_0031,Matthew Reyes,sess_1dac75a8cd,Facebook,Yes,Yes,Mobile,82,Pants Item B,3,No,No,No,0.0,No,product_page,Pants
+user_0074,Spencer Norris,sess_c1056a2f3c,Instagram,Yes,Yes,Mobile,59,Jeans Item Z,1,No,No,No,0.0,No,product_page,Jeans
+user_0395,Joanne Elliott,sess_93de84a27a,Google,Yes,No,Desktop,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0287,Stephanie Braun,sess_23f30acf41,Facebook,Yes,Yes,Desktop,180,T-Shirts Item X,3,Yes,No,No,0.0,No,cart,T-Shirts
+user_0376,Sarah Sims,sess_eab32988e7,Facebook,Yes,Yes,Desktop,294,Accessories Item X,1,Yes,No,No,0.0,No,cart,Accessories
+user_0350,Kayla Combs,sess_c8d6dbef34,Google,Yes,Yes,Mobile,10,,0,No,No,No,0.0,No,landing_page,
+user_0214,Alexander Holmes,sess_de38ff811d,Instagram,Yes,Yes,Mobile,109,T-Shirts Item A,2,No,No,No,0.0,No,product_page,T-Shirts
+user_0118,Katherine Barnett,sess_70c5940599,Instagram,Yes,Yes,Mobile,530,Shorts Item B,2,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0243,Jeffrey Castro,sess_c885005ea5,Facebook,Yes,Yes,Mobile,419,Jeans Item B,1,Yes,Yes,Yes,38.58,No,purchase_confirmation,Jeans
+user_0100,Jeffrey Crawford,sess_988cbb8783,Google,Yes,Yes,Mobile,84,Shorts Item X,4,No,No,No,0.0,No,product_page,Shorts
+user_0247,Daniel Quinn,sess_7d02467597,Instagram,Yes,Yes,Desktop,309,T-Shirts Item B,3,Yes,Yes,Yes,27.02,No,purchase_confirmation,T-Shirts
+user_0116,Angelica Kemp,sess_935f23fe2f,Instagram,Yes,Yes,Mobile,74,T-Shirts Item B,2,No,No,No,0.0,No,product_page,T-Shirts
+user_0291,Cynthia Sherman,sess_5c72f39170,Instagram,Yes,Yes,Mobile,510,Shorts Item A,1,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0093,Michael Moore,sess_9764b08cfb,Instagram,No,No,Desktop,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0171,Miranda Doyle,sess_d1911aa041,Instagram,Yes,Yes,Mobile,172,T-Shirts Item B,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0367,Alexander Simpson,sess_16a0230419,Facebook,Yes,Yes,Desktop,125,Jeans Item A,3,No,No,No,0.0,No,product_page,Jeans
+user_0238,Kelly Patterson,sess_ef1d85edd4,Instagram,Yes,Yes,Mobile,565,T-Shirts Item A,4,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0008,Brittany Hart,sess_38a6638e3d,Google,Yes,Yes,Mobile,407,T-Shirts Item B,1,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0289,Robert Parker,sess_2782b891ac,Facebook,Yes,Yes,Mobile,173,Jeans Item A,3,No,No,No,0.0,No,product_page,Jeans
+user_0364,Andrea Hawkins,sess_a5748203a8,Instagram,Yes,Yes,Desktop,278,Hoodies Item Z,1,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0043,Aaron Bean,sess_f0397a6683,Facebook,Yes,Yes,Mobile,93,Shorts Item A,1,No,No,No,0.0,No,product_page,Shorts
+user_0163,Larry Boyle,sess_88b6f666a3,Facebook,Yes,Yes,Mobile,66,Jeans Item B,1,No,No,No,0.0,No,product_page,Jeans
+user_0374,Steven Wells,sess_53a0e19f28,Instagram,Yes,Yes,Mobile,331,Shorts Item X,3,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0134,Cody Porter,sess_cb6b7b039e,Instagram,Yes,Yes,Mobile,973,Hoodies Item X,1,Yes,Yes,Yes,26.39,No,purchase_confirmation,Hoodies
+user_0087,David Kelley,sess_594cbafaf0,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0102,Adam Howard,sess_3ebd49fa0c,Google,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0338,Joseph Carrillo,sess_29b9728da5,Google,Yes,Yes,Desktop,180,Accessories Item Z,1,No,No,No,0.0,No,product_page,Accessories
+user_0137,Karen Miller,sess_68978655ae,Facebook,Yes,Yes,Desktop,227,Accessories Item X,1,Yes,Yes,No,0.0,No,checkout,Accessories
+user_0233,John Lucas,sess_c40ce8d046,Facebook,Yes,Yes,Mobile,131,Shorts Item Z,2,No,No,No,0.0,No,product_page,Shorts
+user_0352,Laura Johnson,sess_854c3b7f29,Facebook,Yes,Yes,Mobile,883,Jeans Item X,1,Yes,Yes,Yes,34.89,No,purchase_confirmation,Jeans
+user_0238,Kelly Patterson,sess_709e4a05fe,Facebook,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0147,David Harris,sess_0812d18429,Facebook,Yes,Yes,Desktop,467,Shorts Item B,2,Yes,Yes,Yes,22.96,Yes,purchase_confirmation,Shorts
+user_0329,Carolyn Shields,sess_9cb45f1d6b,Facebook,Yes,Yes,Mobile,147,Hoodies Item A,4,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0085,Jacob Sawyer,sess_54efbcd035,Instagram,Yes,Yes,Desktop,581,Jeans Item A,2,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0097,Joshua Blackburn,sess_8a2f152f07,Facebook,Yes,Yes,Desktop,127,Jeans Item Z,1,No,No,No,0.0,No,product_page,Jeans
+user_0166,Sarah Phillips,sess_e89d8ca112,Facebook,Yes,Yes,Mobile,120,Pants Item A,1,Yes,Yes,No,0.0,No,checkout,Pants
+user_0395,Joanne Elliott,sess_4b6fbf997e,Instagram,Yes,Yes,Desktop,44,Accessories Item Z,3,No,No,No,0.0,No,product_page,Accessories
+user_0354,Bonnie Evans,sess_8d70224969,Instagram,Yes,No,Mobile,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0398,Elizabeth Mayer,sess_aba85365f1,Instagram,Yes,Yes,Mobile,30,T-Shirts Item Z,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0159,Gerald Reynolds,sess_11985e0abd,Instagram,Yes,Yes,Mobile,147,Shorts Item Z,3,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0174,Kelly Williams,sess_e759025f28,Google,No,No,Desktop,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0078,Carmen Rodriguez,sess_d7e6694c3b,Instagram,Yes,Yes,Desktop,312,Jeans Item Z,1,Yes,Yes,Yes,43.03,No,purchase_confirmation,Jeans
+user_0363,Tiffany Cole,sess_83959091fc,Facebook,Yes,No,Mobile,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0398,Elizabeth Mayer,sess_857ae64e75,Instagram,Yes,Yes,Mobile,32,T-Shirts Item B,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0115,Alyssa Wong,sess_144f207975,Google,Yes,Yes,Desktop,95,Pants Item X,1,No,No,No,0.0,No,product_page,Pants
+user_0377,Sherri Payne,sess_79f039488e,Facebook,Yes,Yes,Desktop,158,Pants Item X,2,No,No,No,0.0,No,product_page,Pants
+user_0010,Keith Brown,sess_ae4c0d4ba2,Facebook,Yes,Yes,Mobile,488,T-Shirts Item A,3,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0251,Michael Torres,sess_43253e7869,Instagram,Yes,Yes,Mobile,149,Accessories Item Z,1,No,No,No,0.0,No,product_page,Accessories
+user_0134,Cody Porter,sess_9c06b85a03,Instagram,Yes,Yes,Mobile,466,T-Shirts Item Z,3,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0118,Katherine Barnett,sess_6f1a5d63d3,Instagram,Yes,Yes,Desktop,27,,0,No,No,No,0.0,No,landing_page,
+user_0303,Kayla Doyle,sess_38a92b7911,Instagram,Yes,Yes,Mobile,274,Pants Item Z,4,Yes,Yes,No,0.0,No,checkout,Pants
+user_0363,Tiffany Cole,sess_2448d51fc2,Facebook,Yes,Yes,Mobile,154,T-Shirts Item B,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0382,Christina Rangel,sess_d33e999a9b,Facebook,Yes,Yes,Mobile,100,Pants Item Z,2,No,No,No,0.0,No,product_page,Pants
+user_0075,Jennifer Johnson,sess_72c57bf964,Instagram,Yes,Yes,Mobile,48,Jeans Item Z,1,No,No,No,0.0,No,product_page,Jeans
+user_0086,Barry Garcia,sess_f1f6bab509,Google,Yes,Yes,Mobile,28,,0,No,No,No,0.0,No,landing_page,
+user_0164,Amber Mccann,sess_1aa9e31690,Instagram,Yes,No,Mobile,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0002,Tyrone Hubbard,sess_192a55140b,Instagram,Yes,Yes,Mobile,192,T-Shirts Item X,5,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0126,Brian Smith,sess_270d8faafc,Instagram,No,No,Desktop,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0112,Beth Ford,sess_bef5eec657,Facebook,Yes,Yes,Desktop,523,Accessories Item Z,1,Yes,Yes,No,0.0,No,checkout,Accessories
+user_0395,Joanne Elliott,sess_542702e0de,Instagram,Yes,Yes,Mobile,166,Pants Item X,2,No,No,No,0.0,No,product_page,Pants
+user_0012,Troy Smith,sess_bc453fdd6e,Instagram,Yes,Yes,Mobile,27,,0,No,No,No,0.0,No,landing_page,
+user_0161,Laura Jones,sess_68da8b9ebf,Google,Yes,Yes,Mobile,109,Accessories Item X,6,Yes,No,No,0.0,No,cart,Accessories
+user_0052,April Clarke,sess_a565e0ce52,Facebook,Yes,Yes,Mobile,336,T-Shirts Item A,2,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0274,Charles Dorsey,sess_1eb982d971,Instagram,Yes,Yes,Desktop,141,Shorts Item X,2,No,No,No,0.0,No,product_page,Shorts
+user_0109,Amy Golden,sess_d9dce53d1a,Instagram,Yes,Yes,Desktop,397,Pants Item B,2,Yes,Yes,No,0.0,No,checkout,Pants
+user_0293,Morgan Mclaughlin,sess_bcdc4a38ee,Instagram,Yes,Yes,Mobile,103,Accessories Item A,3,No,No,No,0.0,No,product_page,Accessories
+user_0253,Richard Anderson,sess_5f470a981f,Instagram,Yes,Yes,Mobile,378,Shorts Item A,1,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0071,Angela Delacruz,sess_474ed6cc94,Facebook,Yes,Yes,Mobile,121,T-Shirts Item X,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0314,Luke Walter,sess_412bbd290f,Instagram,Yes,Yes,Mobile,83,T-Shirts Item X,6,No,No,No,0.0,No,product_page,T-Shirts
+user_0244,Laura Cobb,sess_1010f41f20,Google,Yes,Yes,Mobile,19,,0,No,No,No,0.0,No,landing_page,
+user_0268,Brent Morris,sess_903c489f1a,Instagram,Yes,Yes,Desktop,199,Accessories Item Z,2,Yes,Yes,No,0.0,No,checkout,Accessories
+user_0307,Anita Sanders,sess_bb73662ec7,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0234,Sally Harrington,sess_f09d15ca7a,Facebook,Yes,Yes,Mobile,915,T-Shirts Item X,2,Yes,Yes,Yes,15.6,No,purchase_confirmation,T-Shirts
+user_0304,Jessica Elliott,sess_eacd202794,Instagram,Yes,Yes,Desktop,161,Jeans Item Z,2,No,No,No,0.0,No,product_page,Jeans
+user_0284,Alexander Richard,sess_d2cf8398a1,Instagram,Yes,Yes,Mobile,85,Jeans Item Z,3,No,No,No,0.0,No,product_page,Jeans
+user_0359,Mitchell Flowers DDS,sess_7b41907bf7,Instagram,Yes,Yes,Desktop,751,Shorts Item Z,1,Yes,Yes,Yes,25.93,No,purchase_confirmation,Shorts
+user_0235,Samantha Moran,sess_d4e284b101,Instagram,Yes,Yes,Mobile,13,,0,No,No,No,0.0,No,landing_page,
+user_0382,Christina Rangel,sess_dc8480f524,Google,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0121,Cody Martinez,sess_3f8f66689b,Instagram,Yes,Yes,Mobile,73,Accessories Item X,1,No,No,No,0.0,No,product_page,Accessories
+user_0107,Joseph Lopez,sess_f059da2edc,Google,Yes,Yes,Mobile,161,T-Shirts Item X,4,No,No,No,0.0,No,product_page,T-Shirts
+user_0096,Kenneth Allen,sess_e60dcaffdb,Facebook,Yes,Yes,Mobile,7,,0,No,No,No,0.0,No,landing_page,
+user_0013,Eric Petersen,sess_37d8059750,Instagram,Yes,Yes,Desktop,29,,0,No,No,No,0.0,No,landing_page,
+user_0209,Roger Smith,sess_b8dc98bb9e,Google,Yes,Yes,Desktop,479,Shorts Item B,1,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0065,Jennifer Werner,sess_9a56fcc12e,Google,Yes,Yes,Mobile,471,Hoodies Item X,2,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0108,Samantha Savage,sess_0aa16b8cbd,Instagram,Yes,Yes,Desktop,386,Accessories Item A,1,Yes,Yes,Yes,22.25,No,purchase_confirmation,Accessories
+user_0291,Cynthia Sherman,sess_00fadeaa01,Facebook,Yes,Yes,Mobile,328,Pants Item Z,1,Yes,Yes,Yes,49.74,No,purchase_confirmation,Pants
+user_0088,John Smith,sess_c14c3a32e4,Google,Yes,Yes,Mobile,150,Hoodies Item B,6,No,No,No,0.0,No,product_page,Hoodies
+user_0380,Jordan Thomas,sess_92cd6e1006,Google,Yes,Yes,Mobile,53,T-Shirts Item B,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0270,Brooke Holden,sess_dafdf9650d,Instagram,Yes,Yes,Mobile,48,T-Shirts Item A,2,No,No,No,0.0,No,product_page,T-Shirts
+user_0175,Billy Thomas,sess_6f464cd2ac,Facebook,Yes,Yes,Desktop,58,Jeans Item Z,1,No,No,No,0.0,No,product_page,Jeans
+user_0389,Anna Shea,sess_9fd9142550,Google,Yes,Yes,Mobile,368,T-Shirts Item Z,1,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0328,Kyle Mccall,sess_911a3e44f1,Facebook,Yes,Yes,Desktop,159,Jeans Item Z,4,No,No,No,0.0,No,product_page,Jeans
+user_0266,Annette Lee,sess_0e5f6dada4,Facebook,Yes,Yes,Mobile,10,,0,No,No,No,0.0,No,landing_page,
+user_0270,Brooke Holden,sess_9cc60475ae,Facebook,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0274,Charles Dorsey,sess_28f373be13,Facebook,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0039,Heather White,sess_455367f6e6,Instagram,Yes,Yes,Mobile,60,Pants Item Z,5,No,No,No,0.0,No,product_page,Pants
+user_0169,Tyler Hawkins,sess_5a451c0b57,Google,Yes,Yes,Desktop,166,Pants Item A,1,No,No,No,0.0,No,product_page,Pants
+user_0109,Amy Golden,sess_8a832d497a,Instagram,Yes,Yes,Mobile,20,,0,No,No,No,0.0,No,landing_page,
+user_0288,Lindsay Gomez,sess_4ad3b1df87,Google,Yes,Yes,Mobile,402,Pants Item Z,1,Yes,Yes,No,0.0,No,checkout,Pants
+user_0084,Matthew Salazar,sess_a65fc8aa9c,Google,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0261,Jose Martinez,sess_fc56c1fa09,Google,Yes,Yes,Desktop,102,Hoodies Item Z,1,No,No,No,0.0,No,product_page,Hoodies
+user_0212,Jasmine Thomas,sess_ce6dfa5e93,Instagram,Yes,Yes,Desktop,99,Hoodies Item B,1,No,No,No,0.0,No,product_page,Hoodies
+user_0097,Joshua Blackburn,sess_7b15233671,Google,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0132,Sandra Murphy,sess_6412c755d2,Facebook,Yes,Yes,Desktop,130,Accessories Item Z,2,No,No,No,0.0,No,product_page,Accessories
+user_0224,Kimberly Turner,sess_2b55b1bbd8,Google,Yes,Yes,Mobile,68,Pants Item X,1,No,No,No,0.0,No,product_page,Pants
+user_0329,Carolyn Shields,sess_07fb1f3e8e,Facebook,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0025,Michelle Marsh,sess_54e0b55e87,Instagram,Yes,No,Mobile,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0238,Kelly Patterson,sess_ba1ecc694a,Facebook,Yes,Yes,Mobile,392,Jeans Item B,1,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0119,Barbara Soto,sess_d5a4cd9f4c,Instagram,Yes,Yes,Mobile,124,Accessories Item Z,3,Yes,Yes,No,0.0,No,checkout,Accessories
+user_0039,Heather White,sess_a207b21202,Instagram,Yes,Yes,Desktop,56,Shorts Item X,3,No,No,No,0.0,No,product_page,Shorts
+user_0016,Cole Mckinney,sess_b82e1ff1ff,Google,Yes,Yes,Desktop,409,Hoodies Item A,1,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0353,Aaron Acosta,sess_9649c6d8fb,Instagram,Yes,Yes,Mobile,19,,0,No,No,No,0.0,No,landing_page,
+user_0049,Jacob White,sess_c30f5f023e,Instagram,Yes,Yes,Desktop,407,Pants Item Z,1,Yes,Yes,Yes,33.29,Yes,purchase_confirmation,Pants
+user_0327,Jennifer Smith,sess_3493d323a8,Instagram,Yes,Yes,Mobile,97,Accessories Item X,3,No,No,No,0.0,No,product_page,Accessories
+user_0329,Carolyn Shields,sess_ca7e92a67f,Instagram,Yes,Yes,Mobile,88,Accessories Item Z,3,No,No,No,0.0,No,product_page,Accessories
+user_0281,Mark Daniels,sess_9b81e5bbdb,Facebook,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0218,Paul Mills,sess_d9797f4a95,Google,Yes,Yes,Mobile,36,T-Shirts Item B,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0050,Michelle Schneider,sess_bfce2c4b98,Facebook,Yes,Yes,Desktop,131,T-Shirts Item B,2,No,No,No,0.0,No,product_page,T-Shirts
+user_0019,Kevin Bryant,sess_ee229d251b,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0278,Michael Harrison,sess_0d8068d8aa,Google,Yes,Yes,Desktop,599,Accessories Item Z,1,Yes,Yes,No,0.0,No,checkout,Accessories
+user_0021,Julie Allen,sess_c6a1dd9112,Instagram,Yes,Yes,Mobile,115,Hoodies Item Z,2,No,No,No,0.0,No,product_page,Hoodies
+user_0072,Jamie Smith,sess_7c454f8636,Facebook,Yes,Yes,Desktop,226,T-Shirts Item X,5,Yes,Yes,Yes,19.47,No,purchase_confirmation,T-Shirts
+user_0249,Rebecca Smith,sess_1c1af28240,Google,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0233,John Lucas,sess_ffc7485e4c,Instagram,Yes,Yes,Mobile,118,T-Shirts Item X,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0358,Scott Reeves,sess_461903967e,Google,Yes,No,Mobile,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0371,Daniel Anderson,sess_c4fa106ac7,Instagram,Yes,Yes,Desktop,154,Jeans Item X,3,No,No,No,0.0,No,product_page,Jeans
+user_0333,Susan Wright,sess_c8ef6dbad7,Google,Yes,Yes,Mobile,177,Jeans Item B,2,No,No,No,0.0,No,product_page,Jeans
+user_0289,Robert Parker,sess_550674b418,Google,Yes,Yes,Desktop,447,Hoodies Item X,1,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0038,Jacob Miller,sess_6cdc80c5a1,Instagram,Yes,Yes,Mobile,68,Shorts Item Z,1,No,No,No,0.0,No,product_page,Shorts
+user_0050,Michelle Schneider,sess_d8a84aec06,Facebook,Yes,Yes,Mobile,203,Shorts Item X,1,Yes,No,No,0.0,No,cart,Shorts
+user_0040,Charles Rojas,sess_f6a21c6a16,Instagram,Yes,Yes,Mobile,73,T-Shirts Item B,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0127,Michael Chavez,sess_72572f5492,Google,Yes,Yes,Desktop,89,Pants Item X,1,No,No,No,0.0,No,product_page,Pants
+user_0219,Kristen Phillips,sess_f6b6025586,Facebook,Yes,Yes,Mobile,96,Hoodies Item X,1,No,No,No,0.0,No,product_page,Hoodies
+user_0367,Alexander Simpson,sess_59b48309d5,Google,Yes,Yes,Desktop,499,Jeans Item X,4,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0318,Jared Lopez,sess_185fca1ee9,Google,Yes,Yes,Desktop,150,Pants Item X,1,No,No,No,0.0,No,product_page,Pants
+user_0030,Thomas Davis,sess_00ed38d080,Google,No,No,Desktop,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0129,Dawn Walters,sess_2b1433c79d,Instagram,Yes,Yes,Desktop,25,,0,No,No,No,0.0,No,landing_page,
+user_0250,Jeffrey Taylor,sess_e326434592,Instagram,Yes,Yes,Mobile,142,T-Shirts Item Z,6,No,No,No,0.0,No,product_page,T-Shirts
+user_0176,Lori James,sess_23c7a6a507,Instagram,Yes,Yes,Mobile,100,Jeans Item Z,1,No,No,No,0.0,No,product_page,Jeans
+user_0129,Dawn Walters,sess_c7f4449654,Instagram,No,No,Desktop,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0059,Leslie Walsh,sess_483da7185a,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0316,Gabrielle Aguilar,sess_5fa3b05162,Google,Yes,Yes,Mobile,206,Shorts Item A,3,Yes,No,No,0.0,No,cart,Shorts
+user_0184,Debbie Buchanan,sess_31a7dcb818,Google,Yes,Yes,Desktop,173,T-Shirts Item Z,6,No,No,No,0.0,No,product_page,T-Shirts
+user_0397,Jared Mitchell,sess_6df9f331dd,Facebook,Yes,Yes,Desktop,29,,0,No,No,No,0.0,No,landing_page,
+user_0135,Michael Ashley,sess_ba71650e18,Google,Yes,Yes,Mobile,118,T-Shirts Item A,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0251,Michael Torres,sess_f28941e795,Instagram,Yes,Yes,Desktop,110,Shorts Item X,1,No,No,No,0.0,No,product_page,Shorts
+user_0342,Charles Sullivan,sess_11d5fa55b3,Facebook,Yes,Yes,Mobile,22,,0,No,No,No,0.0,No,landing_page,
+user_0065,Jennifer Werner,sess_bacb35af01,Instagram,Yes,Yes,Mobile,177,T-Shirts Item B,2,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0080,Randall Hernandez,sess_0991a6fe45,Instagram,Yes,Yes,Mobile,497,Shorts Item X,1,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0376,Sarah Sims,sess_fb5ffcbffb,Facebook,Yes,Yes,Mobile,154,Jeans Item X,1,No,No,No,0.0,No,product_page,Jeans
+user_0003,Candice Acevedo,sess_997776935a,Instagram,Yes,Yes,Mobile,85,Jeans Item X,3,No,No,No,0.0,No,product_page,Jeans
+user_0095,John Olson,sess_cb923a51c3,Instagram,Yes,Yes,Desktop,135,T-Shirts Item B,2,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0296,Jeffery Perez,sess_20560ab841,Facebook,Yes,Yes,Desktop,10,,0,No,No,No,0.0,No,landing_page,
+user_0160,Bryan Cunningham,sess_b12a8450a7,Instagram,Yes,Yes,Desktop,138,Shorts Item Z,1,No,No,No,0.0,No,product_page,Shorts
+user_0215,Alvin Ortega,sess_8fe6af0e6b,Google,Yes,Yes,Mobile,282,Jeans Item Z,2,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0296,Jeffery Perez,sess_bafeab16f6,Instagram,Yes,Yes,Desktop,74,Jeans Item A,2,No,No,No,0.0,No,product_page,Jeans
+user_0389,Anna Shea,sess_c1f4c5459d,Instagram,Yes,Yes,Mobile,65,Pants Item A,4,No,No,No,0.0,No,product_page,Pants
+user_0160,Bryan Cunningham,sess_f42916847c,Facebook,Yes,Yes,Mobile,175,Jeans Item B,1,No,No,No,0.0,No,product_page,Jeans
+user_0057,Eric Patel,sess_f93fde9545,Instagram,Yes,Yes,Desktop,532,Accessories Item B,2,Yes,Yes,No,0.0,No,checkout,Accessories
+user_0137,Karen Miller,sess_91156247da,Instagram,Yes,Yes,Mobile,516,Pants Item Z,1,Yes,Yes,No,0.0,No,checkout,Pants
+user_0205,Melissa Hall,sess_de35bdb60c,Facebook,Yes,Yes,Mobile,317,Pants Item X,1,Yes,Yes,No,0.0,No,checkout,Pants
+user_0099,Michelle Dickerson,sess_fcabf02859,Facebook,Yes,Yes,Desktop,30,,0,No,No,No,0.0,No,landing_page,
+user_0166,Sarah Phillips,sess_3b80de741a,Facebook,Yes,Yes,Mobile,189,Accessories Item Z,1,Yes,Yes,No,0.0,No,checkout,Accessories
+user_0130,Megan Fuller,sess_08be133d0e,Facebook,Yes,Yes,Mobile,366,Shorts Item A,1,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0232,Eddie Mcbride,sess_c4a100bc5a,Google,Yes,Yes,Mobile,17,,0,No,No,No,0.0,No,landing_page,
+user_0155,Patrick Braun,sess_bc73648370,Facebook,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0392,George Stephens,sess_70ae0cb86d,Instagram,Yes,Yes,Mobile,99,Pants Item B,1,No,No,No,0.0,No,product_page,Pants
+user_0041,William Ellison,sess_d4a5b4dbb6,Facebook,Yes,Yes,Mobile,128,Hoodies Item B,1,No,No,No,0.0,No,product_page,Hoodies
+user_0308,Michael Wang,sess_d45984d37a,Google,Yes,Yes,Desktop,137,Pants Item Z,4,No,No,No,0.0,No,product_page,Pants
+user_0095,John Olson,sess_c407f5e8e8,Instagram,Yes,Yes,Mobile,122,Jeans Item Z,2,No,No,No,0.0,No,product_page,Jeans
+user_0232,Eddie Mcbride,sess_e37e2a0bd4,Facebook,Yes,Yes,Mobile,555,T-Shirts Item X,3,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0307,Anita Sanders,sess_8fef7fceaa,Instagram,Yes,Yes,Desktop,569,Hoodies Item A,2,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0337,Scott Graves,sess_8bfa5ee718,Facebook,Yes,No,Desktop,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0093,Michael Moore,sess_792044ad38,Instagram,Yes,Yes,Desktop,956,T-Shirts Item A,2,Yes,Yes,Yes,17.52,No,purchase_confirmation,T-Shirts
+user_0221,Amy Mayer,sess_a2acf386bf,Instagram,Yes,Yes,Mobile,26,,0,No,No,No,0.0,No,landing_page,
+user_0008,Brittany Hart,sess_2ea5a03c98,Instagram,Yes,Yes,Mobile,63,Shorts Item A,3,No,No,No,0.0,No,product_page,Shorts
+user_0283,Curtis Nichols,sess_793d63af40,Google,Yes,Yes,Mobile,996,Jeans Item B,2,Yes,Yes,Yes,44.08,No,purchase_confirmation,Jeans
+user_0080,Randall Hernandez,sess_452b466109,Instagram,Yes,No,Desktop,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0154,Erica Hogan,sess_d3d05f50fe,Instagram,Yes,No,Mobile,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0004,Katherine Mcclure,sess_0ed90cb00c,Instagram,Yes,Yes,Mobile,150,Jeans Item X,1,Yes,No,No,0.0,No,cart,Jeans
+user_0254,David Gutierrez,sess_5b237b2415,Instagram,Yes,Yes,Mobile,75,Accessories Item B,1,No,No,No,0.0,No,product_page,Accessories
+user_0256,Brittany Diaz DDS,sess_fb3bf1fa85,Google,Yes,Yes,Mobile,162,Accessories Item X,1,No,No,No,0.0,No,product_page,Accessories
+user_0309,Bruce Solis,sess_3ee46a96d0,Instagram,Yes,Yes,Desktop,63,T-Shirts Item X,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0264,Richard Morrison,sess_87daa2871a,Instagram,Yes,Yes,Desktop,128,Hoodies Item B,2,No,No,No,0.0,No,product_page,Hoodies
+user_0003,Candice Acevedo,sess_e85a2cd660,Instagram,Yes,Yes,Mobile,286,T-Shirts Item X,1,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0147,David Harris,sess_31699bf0de,Facebook,Yes,No,Mobile,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0166,Sarah Phillips,sess_fc94dcf432,Instagram,Yes,No,Mobile,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0399,Frank Porter,sess_cf9936e5bd,Google,Yes,Yes,Desktop,42,T-Shirts Item X,10,No,No,No,0.0,No,product_page,T-Shirts
+user_0104,Barbara Smith,sess_2d1aaa0c0e,Instagram,Yes,Yes,Mobile,30,,0,No,No,No,0.0,No,landing_page,
+user_0099,Michelle Dickerson,sess_169fa6a1ca,Instagram,Yes,Yes,Mobile,438,Jeans Item B,2,Yes,Yes,Yes,46.48,No,purchase_confirmation,Jeans
+user_0158,Kathleen Lewis,sess_9b864af030,Facebook,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0382,Christina Rangel,sess_1dfd9d9bb7,Facebook,Yes,Yes,Mobile,63,Jeans Item B,1,No,No,No,0.0,No,product_page,Jeans
+user_0116,Angelica Kemp,sess_e106bedb20,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0238,Kelly Patterson,sess_2d3478597f,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0108,Samantha Savage,sess_5d75d18f8d,Facebook,Yes,Yes,Mobile,259,Jeans Item B,1,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0396,Tina Krueger,sess_1d99ffb26c,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0326,Christopher Allen,sess_9173c33cd2,Instagram,Yes,Yes,Desktop,145,Hoodies Item Z,5,No,No,No,0.0,No,product_page,Hoodies
+user_0195,Steven Quinn,sess_7330ed6749,Google,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0022,Carolyn Mora,sess_fec4d41d1d,Google,Yes,Yes,Desktop,27,,0,No,No,No,0.0,No,landing_page,
+user_0008,Brittany Hart,sess_fd3182fef2,Facebook,Yes,Yes,Mobile,473,Shorts Item Z,3,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0030,Thomas Davis,sess_104a87807a,Google,Yes,Yes,Mobile,94,Shorts Item A,5,No,No,No,0.0,No,product_page,Shorts
+user_0036,Angela Cruz,sess_3d64fb6623,Google,Yes,Yes,Mobile,173,Jeans Item B,4,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0307,Anita Sanders,sess_293349de97,Google,Yes,Yes,Mobile,15,,0,No,No,No,0.0,No,landing_page,
+user_0274,Charles Dorsey,sess_7173feef46,Instagram,Yes,Yes,Mobile,939,Accessories Item A,1,Yes,Yes,Yes,20.49,No,purchase_confirmation,Accessories
+user_0245,Amber Park,sess_7469f7036a,Facebook,Yes,Yes,Mobile,712,T-Shirts Item X,1,Yes,Yes,Yes,20.73,No,purchase_confirmation,T-Shirts
+user_0124,Christy Parsons,sess_1a9ccf9cff,Instagram,Yes,Yes,Mobile,108,Pants Item X,1,No,No,No,0.0,No,product_page,Pants
+user_0309,Bruce Solis,sess_cf7d81d443,Facebook,Yes,Yes,Mobile,313,Hoodies Item Z,2,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0310,Penny Copeland,sess_f32fcc4a80,Facebook,Yes,Yes,Mobile,222,Pants Item X,6,Yes,Yes,No,0.0,No,checkout,Pants
+user_0061,Gregory Allen,sess_9fd8b46970,Google,Yes,No,Desktop,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0380,Jordan Thomas,sess_f1c2dd5f70,Instagram,Yes,Yes,Desktop,101,Jeans Item B,1,No,No,No,0.0,No,product_page,Jeans
+user_0171,Miranda Doyle,sess_0f08a991ce,Instagram,Yes,Yes,Desktop,263,Jeans Item X,1,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0040,Charles Rojas,sess_59190b40af,Instagram,Yes,Yes,Mobile,24,,0,No,No,No,0.0,No,landing_page,
+user_0088,John Smith,sess_38c0e8a9e0,Google,Yes,Yes,Mobile,5,,0,No,No,No,0.0,No,landing_page,
+user_0155,Patrick Braun,sess_6d728ea528,Facebook,Yes,Yes,Desktop,351,Hoodies Item B,2,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0009,Jonathan Wade,sess_0016a4758b,Facebook,Yes,Yes,Desktop,328,Jeans Item B,2,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0045,Ashley Mcdowell,sess_1183d387b7,Instagram,Yes,Yes,Mobile,16,,0,No,No,No,0.0,No,landing_page,
+user_0267,Tina Villa,sess_7c720a5d0e,Facebook,Yes,Yes,Desktop,5,,0,No,No,No,0.0,No,landing_page,
+user_0257,Deborah Anderson,sess_01c5ade1cb,Instagram,Yes,No,Mobile,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0007,Jonathan Gonzalez,sess_db9a306e50,Facebook,Yes,Yes,Mobile,312,Pants Item A,3,Yes,Yes,No,0.0,No,checkout,Pants
+user_0146,Megan Allen,sess_49392057e8,Facebook,Yes,Yes,Desktop,914,Hoodies Item Z,2,Yes,Yes,Yes,48.52,No,purchase_confirmation,Hoodies
+user_0273,Jennifer Gutierrez,sess_ba7d6c695e,Instagram,Yes,Yes,Mobile,242,T-Shirts Item X,2,Yes,No,No,0.0,No,cart,T-Shirts
+user_0385,Amy Harrison,sess_4a5d15298b,Instagram,Yes,Yes,Mobile,838,Jeans Item X,3,Yes,Yes,Yes,47.44,No,purchase_confirmation,Jeans
+user_0248,Corey Villegas,sess_a317929e4e,Instagram,Yes,Yes,Mobile,390,Shorts Item X,1,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0351,Curtis Bell,sess_b786aa7a75,Facebook,Yes,Yes,Desktop,756,Shorts Item A,1,Yes,Yes,Yes,18.1,No,purchase_confirmation,Shorts
+user_0301,Connie Clark,sess_c3ff42e7a1,Google,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0284,Alexander Richard,sess_7e8e4d60ef,Facebook,Yes,Yes,Mobile,5,,0,No,No,No,0.0,No,landing_page,
+user_0051,Rebecca Richards,sess_23b91d01f7,Facebook,Yes,Yes,Mobile,76,Accessories Item A,2,No,No,No,0.0,No,product_page,Accessories
+user_0314,Luke Walter,sess_63fc8a8f19,Instagram,Yes,Yes,Mobile,472,Jeans Item Z,4,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0387,Joshua Mcdonald,sess_a6f20e0ce5,Instagram,Yes,Yes,Mobile,10,,0,No,No,No,0.0,No,landing_page,
+user_0072,Jamie Smith,sess_b717c5191d,Instagram,Yes,Yes,Desktop,1102,T-Shirts Item Z,2,Yes,Yes,Yes,27.04,No,purchase_confirmation,T-Shirts
+user_0297,Mark Brown,sess_b0711f8f63,Instagram,Yes,Yes,Desktop,429,Jeans Item Z,1,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0196,Casey George,sess_3523e3b345,Facebook,Yes,Yes,Mobile,121,Shorts Item Z,3,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0061,Gregory Allen,sess_aa937bdd60,Google,Yes,Yes,Mobile,120,T-Shirts Item A,1,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0191,Deborah Hoffman,sess_76fb53cde7,Instagram,Yes,Yes,Mobile,90,Jeans Item Z,1,No,No,No,0.0,No,product_page,Jeans
+user_0363,Tiffany Cole,sess_0366242cfb,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0190,Kayla Blair,sess_0f6ca2ffa9,Facebook,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0361,Timothy Estrada,sess_b925e7697d,Facebook,Yes,Yes,Mobile,607,Hoodies Item Z,3,Yes,Yes,Yes,40.72,No,purchase_confirmation,Hoodies
+user_0355,Corey Dennis,sess_34f1184bc6,Google,Yes,Yes,Desktop,28,,0,No,No,No,0.0,No,landing_page,
+user_0231,Michael Holmes,sess_0aa6a8339e,Google,Yes,Yes,Mobile,209,Accessories Item X,2,Yes,No,No,0.0,No,cart,Accessories
+user_0178,Julie Mccullough,sess_844f8bfbd8,Facebook,Yes,Yes,Desktop,409,T-Shirts Item Z,1,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0381,Michelle Diaz,sess_fedac0acb6,Facebook,Yes,Yes,Mobile,485,Shorts Item X,1,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0167,Robert Larsen,sess_b875c45397,Facebook,Yes,Yes,Desktop,45,Pants Item B,1,No,No,No,0.0,No,product_page,Pants
+user_0271,Michelle Parker,sess_7fc136de69,Instagram,Yes,Yes,Mobile,152,T-Shirts Item Z,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0090,Tracy Donaldson,sess_ff02bd91d8,Instagram,Yes,Yes,Mobile,29,,0,No,No,No,0.0,No,landing_page,
+user_0277,John Weeks,sess_1146dba99a,Instagram,Yes,Yes,Mobile,34,Hoodies Item X,2,No,No,No,0.0,No,product_page,Hoodies
+user_0203,Lisa Estrada,sess_b7b5f46fce,Google,Yes,Yes,Mobile,154,Jeans Item Z,2,No,No,No,0.0,No,product_page,Jeans
+user_0248,Corey Villegas,sess_049be6932d,Google,Yes,Yes,Desktop,580,Shorts Item Z,1,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0174,Kelly Williams,sess_0aed59a8fe,Facebook,Yes,Yes,Mobile,262,T-Shirts Item Z,2,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0374,Steven Wells,sess_42b4636b9d,Instagram,Yes,Yes,Desktop,12,,0,No,No,No,0.0,No,landing_page,
+user_0262,Mrs. Jennifer Chang,sess_b1cc655cb2,Instagram,Yes,Yes,Mobile,82,Hoodies Item Z,1,No,No,No,0.0,No,product_page,Hoodies
+user_0159,Gerald Reynolds,sess_b9be73abc9,Google,Yes,Yes,Desktop,184,Pants Item A,1,Yes,No,No,0.0,No,cart,Pants
+user_0022,Carolyn Mora,sess_2f26b0a759,Google,Yes,No,Mobile,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0200,Eric Vargas,sess_665c2195d2,Instagram,Yes,Yes,Mobile,154,Accessories Item X,2,No,No,No,0.0,No,product_page,Accessories
+user_0214,Alexander Holmes,sess_04efb29ca6,Facebook,Yes,Yes,Mobile,164,Pants Item Z,2,No,No,No,0.0,No,product_page,Pants
+user_0338,Joseph Carrillo,sess_846ec87392,Instagram,Yes,Yes,Desktop,58,Shorts Item X,2,No,No,No,0.0,No,product_page,Shorts
+user_0278,Michael Harrison,sess_69ddbc8024,Instagram,Yes,Yes,Mobile,77,Pants Item Z,2,No,No,No,0.0,No,product_page,Pants
+user_0125,Stacie Ponce,sess_0c3d194e51,Facebook,Yes,Yes,Mobile,146,Accessories Item A,3,No,No,No,0.0,No,product_page,Accessories
+user_0299,Sarah Jacobs,sess_66c44af175,Facebook,Yes,Yes,Mobile,175,Pants Item A,2,No,No,No,0.0,No,product_page,Pants
+user_0143,Christine Ramirez,sess_e40d9bb2d5,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0059,Leslie Walsh,sess_7fe451e7b9,Instagram,Yes,Yes,Mobile,1062,Hoodies Item B,2,Yes,Yes,Yes,31.23,Yes,purchase_confirmation,Hoodies
+user_0339,Erica Bradley,sess_84823cf874,Instagram,Yes,Yes,Desktop,9,,0,No,No,No,0.0,No,landing_page,
+user_0375,Robert Hughes,sess_d65d63d2b9,Facebook,Yes,No,Mobile,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0036,Angela Cruz,sess_dfb9c93a4a,Facebook,Yes,Yes,Desktop,159,Hoodies Item X,3,No,No,No,0.0,No,product_page,Hoodies
+user_0033,Drew Walker,sess_a6e3719687,Instagram,Yes,Yes,Desktop,732,Pants Item Z,2,Yes,Yes,Yes,29.65,Yes,purchase_confirmation,Pants
+user_0355,Corey Dennis,sess_3af80b5d3e,Instagram,Yes,Yes,Mobile,891,Jeans Item B,1,Yes,Yes,Yes,18.94,No,purchase_confirmation,Jeans
+user_0184,Debbie Buchanan,sess_98cbb9bf3a,Facebook,Yes,Yes,Mobile,45,Shorts Item X,4,No,No,No,0.0,No,product_page,Shorts
+user_0199,Shane Cook,sess_81e841fc03,Instagram,No,No,Desktop,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0288,Lindsay Gomez,sess_53c8d55b03,Instagram,Yes,No,Mobile,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0154,Erica Hogan,sess_aec58b1eb4,Google,Yes,No,Desktop,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0178,Julie Mccullough,sess_81cf7f4467,Instagram,Yes,Yes,Mobile,128,T-Shirts Item Z,2,No,No,No,0.0,No,product_page,T-Shirts
+user_0185,Amy Beck,sess_62842731de,Facebook,Yes,Yes,Mobile,261,Shorts Item A,2,Yes,Yes,Yes,33.76,No,purchase_confirmation,Shorts
+user_0380,Jordan Thomas,sess_4a71c35383,Facebook,Yes,Yes,Mobile,270,Accessories Item B,1,Yes,Yes,No,0.0,No,checkout,Accessories
+user_0236,Brianna Hamilton,sess_6389244e75,Google,Yes,Yes,Mobile,352,Shorts Item A,2,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0084,Matthew Salazar,sess_fb0e6154d5,Instagram,Yes,Yes,Desktop,72,Accessories Item X,1,No,No,No,0.0,No,product_page,Accessories
+user_0233,John Lucas,sess_395a7e5daa,Instagram,Yes,Yes,Mobile,173,Pants Item A,4,No,No,No,0.0,No,product_page,Pants
+user_0099,Michelle Dickerson,sess_19d13a7b86,Facebook,Yes,Yes,Desktop,104,Accessories Item A,2,No,No,No,0.0,No,product_page,Accessories
+user_0333,Susan Wright,sess_5be600cfe5,Facebook,Yes,Yes,Mobile,163,Shorts Item Z,2,No,No,No,0.0,No,product_page,Shorts
+user_0375,Robert Hughes,sess_87e3e5306e,Instagram,Yes,Yes,Mobile,100,Jeans Item Z,2,No,No,No,0.0,No,product_page,Jeans
+user_0379,Lauren Montgomery,sess_d38ea53e3a,Instagram,Yes,Yes,Desktop,587,Pants Item X,1,Yes,Yes,Yes,40.83,No,purchase_confirmation,Pants
+user_0081,Michele Stokes,sess_e13453db28,Instagram,Yes,Yes,Mobile,154,T-Shirts Item X,4,No,No,No,0.0,No,product_page,T-Shirts
+user_0271,Michelle Parker,sess_26302660f1,Instagram,Yes,Yes,Desktop,363,T-Shirts Item Z,2,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0294,Gerald Meyers,sess_3314573ad0,Instagram,Yes,Yes,Mobile,167,Pants Item B,2,No,No,No,0.0,No,product_page,Pants
+user_0162,Logan Henderson,sess_93f747b028,Google,Yes,Yes,Desktop,139,Jeans Item X,2,No,No,No,0.0,No,product_page,Jeans
+user_0328,Kyle Mccall,sess_c60e0c341f,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0226,Stacy Morrison,sess_4faa7cf740,Google,Yes,Yes,Mobile,540,Shorts Item B,1,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0141,Michele Rogers,sess_8fc20e0f21,Instagram,Yes,Yes,Mobile,32,Hoodies Item A,4,No,No,No,0.0,No,product_page,Hoodies
+user_0231,Michael Holmes,sess_603681dfa2,Instagram,Yes,Yes,Mobile,374,Pants Item A,2,Yes,Yes,No,0.0,No,checkout,Pants
+user_0152,Jim Garza,sess_5b358010ef,Facebook,Yes,Yes,Mobile,581,T-Shirts Item A,1,Yes,Yes,Yes,21.96,No,purchase_confirmation,T-Shirts
+user_0362,Tonya Romero,sess_ccd019accc,Facebook,Yes,Yes,Desktop,771,Hoodies Item A,1,Yes,Yes,Yes,38.41,No,purchase_confirmation,Hoodies
+user_0341,Michael Moore,sess_651f3d953e,Instagram,Yes,Yes,Mobile,155,T-Shirts Item B,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0293,Morgan Mclaughlin,sess_6c63a3eb26,Instagram,Yes,Yes,Desktop,130,Hoodies Item Z,1,No,No,No,0.0,No,product_page,Hoodies
+user_0284,Alexander Richard,sess_693b0c1fff,Facebook,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0053,Dana Liu,sess_adbecabaf3,Google,Yes,Yes,Desktop,72,Shorts Item X,1,No,No,No,0.0,No,product_page,Shorts
+user_0396,Tina Krueger,sess_72869e9e79,Instagram,Yes,Yes,Mobile,14,,0,No,No,No,0.0,No,landing_page,
+user_0075,Jennifer Johnson,sess_649798b3bd,Facebook,Yes,Yes,Desktop,230,T-Shirts Item A,4,Yes,No,No,0.0,No,cart,T-Shirts
+user_0060,April Stevenson,sess_89949f003d,Instagram,Yes,Yes,Mobile,619,Pants Item A,1,Yes,Yes,Yes,27.06,No,purchase_confirmation,Pants
+user_0165,Amber Cole,sess_71a7b85cae,Instagram,Yes,Yes,Mobile,733,Shorts Item B,2,Yes,Yes,Yes,19.78,No,purchase_confirmation,Shorts
+user_0342,Charles Sullivan,sess_11ba6182ed,Instagram,Yes,Yes,Mobile,114,Hoodies Item X,2,No,No,No,0.0,No,product_page,Hoodies
+user_0042,Jacob Martinez,sess_ccfc3f82bc,Facebook,Yes,No,Mobile,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0215,Alvin Ortega,sess_97585f0f87,Facebook,Yes,Yes,Desktop,7,,0,No,No,No,0.0,No,landing_page,
+user_0164,Amber Mccann,sess_1a3f89870b,Instagram,Yes,Yes,Mobile,357,T-Shirts Item Z,2,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0145,Rose Gonzalez,sess_1ac3f72ee5,Facebook,Yes,Yes,Mobile,476,Pants Item X,1,Yes,Yes,No,0.0,No,checkout,Pants
+user_0112,Beth Ford,sess_854e197a1c,Google,Yes,Yes,Desktop,340,Shorts Item B,2,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0355,Corey Dennis,sess_9ae58e6a64,Instagram,Yes,Yes,Desktop,111,Pants Item X,2,No,No,No,0.0,No,product_page,Pants
+user_0066,Kim Buckley,sess_8ff5a3f233,Instagram,Yes,Yes,Mobile,363,Hoodies Item Z,4,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0002,Tyrone Hubbard,sess_8541bc091a,Instagram,Yes,Yes,Mobile,197,Accessories Item X,2,Yes,No,No,0.0,No,cart,Accessories
+user_0005,Michael Price,sess_d9ee8fe008,Facebook,Yes,Yes,Desktop,367,T-Shirts Item Z,3,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0245,Amber Park,sess_8e1f1934e2,Facebook,Yes,Yes,Mobile,23,,0,No,No,No,0.0,No,landing_page,
+user_0291,Cynthia Sherman,sess_a573d20615,Instagram,Yes,Yes,Desktop,51,Hoodies Item A,1,No,No,No,0.0,No,product_page,Hoodies
+user_0066,Kim Buckley,sess_1e6e3a1738,Instagram,Yes,Yes,Desktop,349,Jeans Item Z,1,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0299,Sarah Jacobs,sess_0d5cd61b4a,Google,Yes,Yes,Mobile,186,Shorts Item Z,1,Yes,No,No,0.0,No,cart,Shorts
+user_0141,Michele Rogers,sess_b8a0098394,Google,Yes,No,Mobile,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0128,Victor Mclean,sess_3bb9f15a1b,Instagram,Yes,Yes,Mobile,148,Pants Item A,2,No,No,No,0.0,No,product_page,Pants
+user_0354,Bonnie Evans,sess_f85808d724,Google,Yes,Yes,Desktop,99,Hoodies Item Z,1,No,No,No,0.0,No,product_page,Hoodies
+user_0273,Jennifer Gutierrez,sess_46679d4f56,Instagram,Yes,Yes,Desktop,85,Jeans Item A,1,Yes,No,No,0.0,No,cart,Jeans
+user_0367,Alexander Simpson,sess_4536f3b6bc,Google,Yes,Yes,Mobile,174,T-Shirts Item X,3,No,No,No,0.0,No,product_page,T-Shirts
+user_0177,Thomas Holt,sess_8f3d022d2c,Facebook,Yes,Yes,Mobile,18,,0,No,No,No,0.0,No,landing_page,
+user_0170,Carolyn Myers,sess_c1831de899,Instagram,Yes,Yes,Desktop,125,Shorts Item A,1,No,No,No,0.0,No,product_page,Shorts
+user_0054,Adam Owens,sess_884a89dd5a,Instagram,No,No,Desktop,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0106,Audrey Payne,sess_25635a3139,Facebook,Yes,Yes,Desktop,157,Shorts Item Z,1,No,No,No,0.0,No,product_page,Shorts
+user_0207,Joseph Pruitt,sess_2411bb246f,Google,Yes,Yes,Desktop,509,Jeans Item Z,3,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0367,Alexander Simpson,sess_9f7df1ae18,Facebook,Yes,Yes,Mobile,112,T-Shirts Item X,3,No,No,No,0.0,No,product_page,T-Shirts
+user_0114,Joshua Morse,sess_c7d80578a3,Facebook,Yes,Yes,Desktop,559,Hoodies Item B,3,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0287,Stephanie Braun,sess_b067f33831,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0020,Ryan Williams,sess_10fe5e2334,Instagram,Yes,Yes,Mobile,133,Hoodies Item X,1,No,No,No,0.0,No,product_page,Hoodies
+user_0174,Kelly Williams,sess_1e4a51ae34,Facebook,Yes,No,Desktop,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0054,Adam Owens,sess_bb25c9a7ee,Instagram,Yes,Yes,Desktop,774,Accessories Item X,2,Yes,Yes,Yes,21.12,No,purchase_confirmation,Accessories
+user_0363,Tiffany Cole,sess_4aacdfe982,Facebook,Yes,No,Mobile,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0027,Kyle Jones,sess_06baf9fe09,Facebook,Yes,Yes,Mobile,1171,Pants Item Z,1,Yes,Yes,Yes,39.27,No,purchase_confirmation,Pants
+user_0141,Michele Rogers,sess_0523c08076,Google,Yes,Yes,Desktop,899,Pants Item B,2,Yes,Yes,Yes,33.2,Yes,purchase_confirmation,Pants
+user_0005,Michael Price,sess_0ca98aabe0,Google,Yes,Yes,Mobile,227,Jeans Item A,3,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0071,Angela Delacruz,sess_2321e278e3,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0355,Corey Dennis,sess_14c321431c,Facebook,Yes,Yes,Mobile,516,Accessories Item B,5,Yes,Yes,No,0.0,No,checkout,Accessories
+user_0118,Katherine Barnett,sess_2f52648b4b,Facebook,Yes,Yes,Mobile,176,Pants Item B,1,Yes,Yes,No,0.0,No,checkout,Pants
+user_0028,Alexandra Steele,sess_d8be17d956,Instagram,Yes,Yes,Desktop,130,T-Shirts Item A,2,No,No,No,0.0,No,product_page,T-Shirts
+user_0121,Cody Martinez,sess_72cb184446,Google,Yes,Yes,Desktop,1099,T-Shirts Item B,1,Yes,Yes,Yes,23.51,No,purchase_confirmation,T-Shirts
+user_0233,John Lucas,sess_fa357a9c3c,Google,Yes,Yes,Desktop,355,Jeans Item A,1,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0106,Audrey Payne,sess_1e685b7761,Instagram,Yes,Yes,Desktop,312,Accessories Item A,1,Yes,Yes,Yes,15.96,Yes,purchase_confirmation,Accessories
+user_0134,Cody Porter,sess_26f5b52aff,Instagram,Yes,Yes,Mobile,152,Shorts Item B,1,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0023,Lisa Shaw,sess_152e6b4f4d,Instagram,Yes,Yes,Mobile,176,Pants Item B,2,Yes,No,No,0.0,No,cart,Pants
+user_0366,Christina Carter,sess_df268aaef0,Instagram,Yes,Yes,Mobile,484,T-Shirts Item Z,4,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0229,Robert Watson,sess_0bd363af98,Instagram,Yes,Yes,Desktop,573,Jeans Item B,1,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0234,Sally Harrington,sess_66b0501ef2,Instagram,Yes,Yes,Mobile,446,Shorts Item X,1,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0267,Tina Villa,sess_1ad863e15b,Facebook,Yes,Yes,Desktop,20,,0,No,No,No,0.0,No,landing_page,
+user_0231,Michael Holmes,sess_49d3afd9d4,Google,Yes,Yes,Desktop,161,Jeans Item B,3,No,No,No,0.0,No,product_page,Jeans
+user_0173,Carrie Garcia,sess_41b1ded59a,Instagram,Yes,Yes,Mobile,490,Accessories Item Z,1,Yes,Yes,No,0.0,No,checkout,Accessories
+user_0287,Stephanie Braun,sess_1194d212b9,Instagram,Yes,Yes,Desktop,399,Shorts Item Z,1,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0017,Andrew Wolfe,sess_d059af98dc,Facebook,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0157,Kathryn Soto,sess_b2fb8d9727,Instagram,Yes,Yes,Desktop,211,T-Shirts Item X,2,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0054,Adam Owens,sess_355ace8977,Google,Yes,Yes,Desktop,95,Pants Item B,1,No,No,No,0.0,No,product_page,Pants
+user_0154,Erica Hogan,sess_755e381710,Instagram,Yes,Yes,Mobile,465,Hoodies Item X,3,Yes,Yes,Yes,35.93,No,purchase_confirmation,Hoodies
+user_0280,Wendy Lawson,sess_91c3195903,Facebook,Yes,Yes,Desktop,246,T-Shirts Item X,1,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0285,Elizabeth Hall,sess_033472ccd2,Facebook,Yes,Yes,Mobile,57,T-Shirts Item X,2,No,No,No,0.0,No,product_page,T-Shirts
+user_0017,Andrew Wolfe,sess_d556b650f1,Google,Yes,Yes,Desktop,137,T-Shirts Item X,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0207,Joseph Pruitt,sess_6dec875b95,Facebook,Yes,Yes,Mobile,546,Shorts Item Z,4,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0092,Claudia White,sess_54ce22ea03,Facebook,Yes,Yes,Desktop,144,Shorts Item Z,1,No,No,No,0.0,No,product_page,Shorts
+user_0113,Michael Sims,sess_1fe63e26dd,Instagram,Yes,Yes,Mobile,24,,0,No,No,No,0.0,No,landing_page,
+user_0260,Helen Martin,sess_ce2dc59158,Instagram,Yes,Yes,Mobile,114,Accessories Item B,1,No,No,No,0.0,No,product_page,Accessories
+user_0238,Kelly Patterson,sess_8fb1a46696,Facebook,Yes,No,Mobile,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0189,Kristen Barron,sess_59f1698292,Instagram,Yes,Yes,Desktop,34,Hoodies Item B,1,No,No,No,0.0,No,product_page,Hoodies
+user_0138,Robert Anderson,sess_9c8aa1edb0,Instagram,Yes,Yes,Mobile,1039,Shorts Item Z,2,Yes,Yes,Yes,20.54,Yes,purchase_confirmation,Shorts
+user_0254,David Gutierrez,sess_40f8caf5ea,Instagram,Yes,Yes,Mobile,525,Hoodies Item Z,2,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0215,Alvin Ortega,sess_675e4d831c,Instagram,Yes,Yes,Mobile,497,Accessories Item A,2,Yes,Yes,Yes,20.18,No,purchase_confirmation,Accessories
+user_0392,George Stephens,sess_412bbf560b,Instagram,Yes,Yes,Desktop,8,,0,No,No,No,0.0,No,landing_page,
+user_0319,Scott Klein,sess_f481fe60f8,Instagram,Yes,Yes,Mobile,525,Hoodies Item X,2,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0112,Beth Ford,sess_4b211a44dc,Google,Yes,Yes,Mobile,81,T-Shirts Item A,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0268,Brent Morris,sess_1896e7cc99,Instagram,No,No,Desktop,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0114,Joshua Morse,sess_706e9dc921,Google,Yes,Yes,Desktop,111,Pants Item Z,1,No,No,No,0.0,No,product_page,Pants
+user_0062,Wesley Peterson,sess_a35155b41a,Instagram,Yes,Yes,Desktop,203,Shorts Item Z,2,Yes,No,No,0.0,No,cart,Shorts
+user_0116,Angelica Kemp,sess_0623b8b7d0,Google,Yes,Yes,Desktop,207,T-Shirts Item Z,2,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0052,April Clarke,sess_8f63081f19,Facebook,No,No,Desktop,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0098,Anthony Poole,sess_f5dd1a8549,Instagram,Yes,Yes,Mobile,71,Jeans Item B,5,No,No,No,0.0,No,product_page,Jeans
+user_0356,Eric Herrera,sess_79c06a9ad6,Instagram,Yes,Yes,Desktop,266,Shorts Item B,1,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0345,Autumn Barker,sess_dbaab5cf4b,Instagram,Yes,Yes,Mobile,184,Shorts Item Z,2,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0033,Drew Walker,sess_cb2ac15c23,Google,Yes,Yes,Mobile,192,Jeans Item B,2,Yes,Yes,Yes,44.35,No,purchase_confirmation,Jeans
+user_0316,Gabrielle Aguilar,sess_49d6ab082c,Facebook,Yes,Yes,Desktop,172,T-Shirts Item B,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0285,Elizabeth Hall,sess_455b68c149,Facebook,Yes,Yes,Desktop,1002,Jeans Item B,2,Yes,Yes,Yes,21.95,No,purchase_confirmation,Jeans
+user_0294,Gerald Meyers,sess_f6b00742b7,Facebook,Yes,Yes,Mobile,562,Hoodies Item A,2,Yes,Yes,Yes,41.68,Yes,purchase_confirmation,Hoodies
+user_0190,Kayla Blair,sess_4a9e5e96cf,Instagram,Yes,Yes,Mobile,30,,0,No,No,No,0.0,No,landing_page,
+user_0072,Jamie Smith,sess_d90bb32cf1,Instagram,Yes,Yes,Mobile,288,T-Shirts Item A,1,Yes,No,No,0.0,No,cart,T-Shirts
+user_0063,Mary Russo,sess_9f78b0ae82,Google,No,No,Desktop,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0393,Theresa Cole,sess_c37ac776af,Instagram,Yes,Yes,Desktop,552,Jeans Item A,1,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0218,Paul Mills,sess_0c50a4e268,Facebook,Yes,Yes,Desktop,354,Pants Item B,5,Yes,Yes,No,0.0,No,checkout,Pants
+user_0302,James Carroll,sess_5b246905ad,Facebook,Yes,Yes,Desktop,68,Jeans Item B,1,No,No,No,0.0,No,product_page,Jeans
+user_0092,Claudia White,sess_c16b639544,Instagram,Yes,Yes,Desktop,86,Accessories Item Z,1,No,No,No,0.0,No,product_page,Accessories
+user_0146,Megan Allen,sess_22704eb0a1,Instagram,Yes,No,Desktop,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0126,Brian Smith,sess_a76b989c49,Facebook,Yes,Yes,Mobile,162,T-Shirts Item Z,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0007,Jonathan Gonzalez,sess_3ee9862273,Instagram,Yes,Yes,Mobile,92,T-Shirts Item X,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0299,Sarah Jacobs,sess_f29ce0e644,Facebook,Yes,Yes,Mobile,239,T-Shirts Item B,3,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0161,Laura Jones,sess_95ba392481,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0340,Glen Wells,sess_4a30d0f6dd,Instagram,Yes,Yes,Mobile,467,Shorts Item X,1,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0121,Cody Martinez,sess_155ddd295e,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0006,Karen Aguilar,sess_f1b2d7d359,Google,Yes,Yes,Mobile,8,,0,No,No,No,0.0,No,landing_page,
+user_0039,Heather White,sess_de18eccea2,Facebook,Yes,Yes,Desktop,511,Pants Item A,2,Yes,Yes,Yes,39.85,No,purchase_confirmation,Pants
+user_0368,Brian Taylor,sess_bc1f907466,Instagram,Yes,Yes,Mobile,417,Accessories Item X,3,Yes,Yes,Yes,14.67,Yes,purchase_confirmation,Accessories
+user_0285,Elizabeth Hall,sess_72f4a7bd9a,Instagram,Yes,Yes,Mobile,58,Jeans Item B,2,No,No,No,0.0,No,product_page,Jeans
+user_0137,Karen Miller,sess_e27b492dd8,Facebook,Yes,Yes,Mobile,335,T-Shirts Item Z,1,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0369,Patrick Ross,sess_f91a4a7319,Instagram,Yes,Yes,Desktop,137,Pants Item A,1,No,No,No,0.0,No,product_page,Pants
+user_0160,Bryan Cunningham,sess_b34e285dcb,Google,Yes,Yes,Mobile,146,Jeans Item A,1,No,No,No,0.0,No,product_page,Jeans
+user_0087,David Kelley,sess_d54f824670,Instagram,Yes,Yes,Desktop,148,Pants Item X,5,Yes,Yes,No,0.0,No,checkout,Pants
+user_0333,Susan Wright,sess_54aae8957a,Facebook,No,No,Desktop,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0340,Glen Wells,sess_952dffbf7b,Google,Yes,Yes,Mobile,120,Pants Item Z,1,No,No,No,0.0,No,product_page,Pants
+user_0009,Jonathan Wade,sess_4039fd478c,Facebook,Yes,Yes,Mobile,7,,0,No,No,No,0.0,No,landing_page,
+user_0036,Angela Cruz,sess_4778531d57,Instagram,Yes,Yes,Mobile,398,Jeans Item Z,1,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0214,Alexander Holmes,sess_84a6b0cfd5,Instagram,No,No,Desktop,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0258,Jennifer Grant,sess_788452fb92,Facebook,Yes,Yes,Mobile,149,T-Shirts Item X,6,Yes,No,No,0.0,No,cart,T-Shirts
+user_0169,Tyler Hawkins,sess_23fc3dda84,Facebook,Yes,Yes,Desktop,60,T-Shirts Item A,3,No,No,No,0.0,No,product_page,T-Shirts
+user_0362,Tonya Romero,sess_3bebd1fcc8,Instagram,Yes,Yes,Mobile,123,Accessories Item A,1,No,No,No,0.0,No,product_page,Accessories
+user_0241,Bryan Crawford,sess_56930fb8c4,Google,Yes,Yes,Mobile,89,T-Shirts Item A,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0026,Christopher Baker,sess_b0fca7cb86,Instagram,Yes,Yes,Mobile,166,Hoodies Item A,2,No,No,No,0.0,No,product_page,Hoodies
+user_0255,Heidi Cruz,sess_c15e59f106,Facebook,Yes,Yes,Desktop,32,Pants Item Z,3,No,No,No,0.0,No,product_page,Pants
+user_0387,Joshua Mcdonald,sess_1b9cfbbdf0,Google,Yes,Yes,Mobile,553,Pants Item X,1,Yes,Yes,No,0.0,No,checkout,Pants
+user_0287,Stephanie Braun,sess_792bf15de5,Instagram,Yes,Yes,Mobile,116,Shorts Item Z,1,No,No,No,0.0,No,product_page,Shorts
+user_0231,Michael Holmes,sess_b48d03fa5f,Google,Yes,Yes,Desktop,15,,0,No,No,No,0.0,No,landing_page,
+user_0128,Victor Mclean,sess_402b870787,Instagram,Yes,Yes,Mobile,803,T-Shirts Item A,1,Yes,Yes,Yes,16.2,No,purchase_confirmation,T-Shirts
+user_0091,Jesus Nguyen,sess_5672036cac,Facebook,Yes,Yes,Desktop,281,Pants Item A,1,Yes,Yes,No,0.0,No,checkout,Pants
+user_0013,Eric Petersen,sess_4df4cabd65,Facebook,Yes,Yes,Mobile,195,Shorts Item A,6,Yes,No,No,0.0,No,cart,Shorts
+user_0232,Eddie Mcbride,sess_25cae27782,Google,Yes,Yes,Mobile,217,Shorts Item X,5,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0216,Ashley Mendez,sess_bcfcee872a,Facebook,Yes,Yes,Mobile,73,Shorts Item X,2,Yes,No,No,0.0,No,cart,Shorts
+user_0268,Brent Morris,sess_8c40ca6708,Facebook,Yes,Yes,Mobile,137,Jeans Item X,1,Yes,No,No,0.0,No,cart,Jeans
+user_0182,Jennifer Simon,sess_1c7e4b007e,Instagram,Yes,Yes,Mobile,1012,Hoodies Item X,1,Yes,Yes,Yes,44.25,No,purchase_confirmation,Hoodies
+user_0214,Alexander Holmes,sess_296af1cb6f,Google,Yes,Yes,Desktop,33,Accessories Item A,2,No,No,No,0.0,No,product_page,Accessories
+user_0166,Sarah Phillips,sess_84c296b5a5,Facebook,Yes,Yes,Mobile,140,T-Shirts Item B,2,No,No,No,0.0,No,product_page,T-Shirts
+user_0090,Tracy Donaldson,sess_0999ddcd2d,Facebook,Yes,Yes,Mobile,267,T-Shirts Item B,2,Yes,No,No,0.0,No,cart,T-Shirts
+user_0352,Laura Johnson,sess_39c83d3e57,Google,Yes,Yes,Mobile,283,T-Shirts Item B,1,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0212,Jasmine Thomas,sess_5216877800,Instagram,Yes,Yes,Desktop,507,T-Shirts Item A,4,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0014,Laura Logan,sess_03aa19ee1a,Facebook,Yes,Yes,Desktop,69,Hoodies Item Z,2,No,No,No,0.0,No,product_page,Hoodies
+user_0255,Heidi Cruz,sess_9c520b5ce5,Google,Yes,Yes,Mobile,446,Hoodies Item Z,3,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0216,Ashley Mendez,sess_fd82c8b470,Facebook,Yes,Yes,Mobile,465,Shorts Item A,1,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0399,Frank Porter,sess_098b36553d,Instagram,Yes,Yes,Desktop,126,T-Shirts Item X,3,No,No,No,0.0,No,product_page,T-Shirts
+user_0377,Sherri Payne,sess_ba94927b8b,Instagram,Yes,Yes,Mobile,283,Pants Item B,3,Yes,No,No,0.0,No,cart,Pants
+user_0084,Matthew Salazar,sess_930dfced6c,Facebook,Yes,Yes,Mobile,598,T-Shirts Item A,1,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0219,Kristen Phillips,sess_0cb2c0da81,Instagram,Yes,Yes,Mobile,151,T-Shirts Item A,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0004,Katherine Mcclure,sess_a170d5b60f,Facebook,Yes,Yes,Mobile,319,Hoodies Item Z,1,Yes,Yes,Yes,58.96,No,purchase_confirmation,Hoodies
+user_0305,Ana Carter,sess_6cfa853045,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0380,Jordan Thomas,sess_2d9a968c7a,Instagram,Yes,Yes,Desktop,871,Jeans Item Z,1,Yes,Yes,Yes,32.59,No,purchase_confirmation,Jeans
+user_0216,Ashley Mendez,sess_22fe8199cb,Google,Yes,Yes,Mobile,291,Pants Item Z,2,Yes,Yes,No,0.0,No,checkout,Pants
+user_0324,Isabella Nunez,sess_de48c21578,Google,Yes,Yes,Mobile,112,T-Shirts Item X,1,No,No,No,0.0,No,product_page,T-Shirts
+user_0279,Amanda Salazar,sess_55679b9f70,Instagram,No,No,Desktop,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0030,Thomas Davis,sess_c1d50fe164,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0049,Jacob White,sess_5d7eaada97,Instagram,Yes,Yes,Mobile,474,Shorts Item Z,2,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0048,Megan Nelson,sess_dc770720a2,Facebook,Yes,Yes,Mobile,334,T-Shirts Item B,2,Yes,Yes,No,0.0,No,checkout,T-Shirts
+user_0068,Donald Mendez,sess_d15e76478f,Instagram,Yes,Yes,Desktop,142,Jeans Item B,2,No,No,No,0.0,No,product_page,Jeans
+user_0017,Andrew Wolfe,sess_e0d5b57ba4,Facebook,Yes,Yes,Mobile,404,Hoodies Item X,2,Yes,Yes,No,0.0,No,checkout,Hoodies
+user_0210,Zachary Quinn,sess_d08c79b7f8,Google,Yes,Yes,Mobile,73,T-Shirts Item Z,3,No,No,No,0.0,No,product_page,T-Shirts
+user_0223,Felicia Walsh,sess_4b0350b939,Facebook,Yes,Yes,Mobile,489,Shorts Item Z,1,Yes,Yes,No,0.0,No,checkout,Shorts
+user_0219,Kristen Phillips,sess_842da6b873,Instagram,No,No,Mobile,0,,0,No,No,No,0.0,No,ad_not_clicked,
+user_0229,Robert Watson,sess_9cc7962955,Google,Yes,Yes,Mobile,27,,0,No,No,No,0.0,No,landing_page,
+user_0226,Stacy Morrison,sess_aa65194b93,Instagram,Yes,Yes,Mobile,163,Shorts Item Z,2,No,No,No,0.0,No,product_page,Shorts
+user_0099,Michelle Dickerson,sess_4d382c3e6e,Google,Yes,Yes,Mobile,390,Jeans Item B,1,Yes,Yes,No,0.0,No,checkout,Jeans
+user_0198,Christopher Miller Jr.,sess_cc7495a15a,Google,Yes,No,Mobile,0,,0,No,No,No,0.0,No,ad_landing_failure,
+user_0257,Deborah Anderson,sess_1cccf9df41,Google,Yes,Yes,Mobile,53,Jeans Item B,1,No,No,No,0.0,No,product_page,Jeans
+user_0352,Laura Johnson,sess_19cd35f429,Instagram,Yes,Yes,Desktop,41,Pants Item A,2,No,No,No,0.0,No,product_page,Pants
