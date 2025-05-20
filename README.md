@@ -57,13 +57,12 @@ Our analysis is framed around the five stages of the customer journey:
 
 Here are the key dashboards providing a visual overview of our findings:
 
-### Customer Behavior Dashboard
-
 ![Customer Behavior Dashboard](dashboard%20screens/consumer%20behavior%20page.JPG)
 
 ### Sales Dashboard
 
 ![Sales Dashboard](dashboard%20screens/Sales%20page.JPG)
+
 
 ## 🚀 Future Enhancements
 
