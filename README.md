@@ -4,6 +4,10 @@
 
 Welcome to the Shopique Customer Behavior Analysis project! This repository contains an in-depth exploration of customer interactions and sales performance for a local clothing brand. Our mission? To transform raw data into actionable strategies that drive growth, enhance user experience, and boost conversions.
 
+## 🔗 [Interactive Dashboard](Consumer%20Behavior%20Analysis.pbix)
+
+For an interactive and detailed exploration of the data, you can download the Power BI file (`.pbix`) by clicking the link above. This allows you to dive deeper into the metrics and filter data as needed.
+
 ## 🌟 Project Overview
 
 This project delves into the first 1000 website visits to uncover key patterns in customer behavior. By analyzing referral sources, user drop-off points, ad interactions, and device preferences, the goal is to pinpoint the specific actions, channels, and attributes that lead to successful sales.
@@ -19,7 +23,7 @@ Our analysis revealed several critical aspects of customer behavior:
 
 ### 📊 Customer Behavior Highlights:
 
-* **Referral Traffic Dominance:** Instagram drives the highest user traffic, outperforming Facebook and Google combined. This highlights the power of social media in attracting both new and returning visitors.
+* **Referral Traffic Domination:** Instagram drives the highest user traffic, outperforming Facebook and Google combined. This highlights the power of social media in attracting both new and returning visitors.
 * **Critical Exit Pages:** Most users exit on the product and checkout pages, highlighting friction points early in the funnel. This indicates potential usability or trust issues in the purchase flow.
 * **Conversion Drop-Off:** A significant conversion drop-off is visible in the purchase funnel:
     * 418 users added items to their cart
@@ -48,6 +52,18 @@ Our analysis is framed around the five stages of the customer journey:
 3.  **Purchase:** Shoppers are more likely to complete a purchase if they've visited before, interacted with promotions, or experienced a smooth and quick checkout process.
 4.  **Retention:** Customers who were satisfied with their first purchase tend to return. Repeat purchases are especially frequent among those who bought trending or seasonal items.
 5.  **Advocacy:** Satisfied customers often share their experiences through reviews or by returning to shop again. Their behavior supports brand trust and influences new shoppers.
+
+## 📊 Dashboard Views
+
+Here are the key dashboards providing a visual overview of our findings:
+
+### Customer Behavior Dashboard
+
+![Customer Behavior Dashboard](dashboard%20screens/consumer%20behavior%20page.JPG)
+
+### Sales Dashboard
+
+![Sales Dashboard](dashboard%20screens/Sales%20page.JPG)
 
 ## 🚀 Future Enhancements
 
