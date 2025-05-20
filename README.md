@@ -1,4 +1,4 @@
-# 🚀 Shopique Customer Behavior Analysis
+# 🚀 Customer Behavior Analysis
 
 ## Unlocking E-commerce Success Through Data-Driven Insights
 
