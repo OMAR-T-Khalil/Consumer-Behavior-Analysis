@@ -10,59 +10,60 @@ For an interactive and detailed exploration of the data, you can download the Po
 
 ## 🌟 Project Overview
 
-This project delves into the first 1000 website visits to uncover key patterns in customer behavior. By analyzing referral sources, user drop-off points, ad interactions, and device preferences, the goal is to pinpoint the specific actions, channels, and attributes that lead to successful sales.
+This project analyzes customer interaction data based on the first 1000 website visits from a local clothing brand[cite: 3]. By examining behavior across multiple sessions, product interests, and return visits, the goal is to pinpoint the specific actions, channels, and attributes that lead to successful sales[cite: 3].
 
 ## ✨ Key Insights & Discoveries
 
 Our analysis revealed several critical aspects of customer behavior:
 
-* **Total Customers:** 371
-* **Total Website Visits:** 1,000
-* **Completed Purchases:** 106
-* **Average Visit Duration:** 4.15 minutes
+* **Total Customers:** 371 [cite: 19]
+* **Total Website Visits:** 1,000 [cite: 19]
+* **Completed Purchases:** 106 [cite: 19]
+* **Average Visit Duration:** 4.15 minutes [cite: 19]
 
 ### 📊 Customer Behavior Highlights:
 
-* **Referral Traffic Domination:** Instagram drives the highest user traffic, outperforming Facebook and Google combined. This highlights the power of social media in attracting both new and returning visitors.
-* **Critical Exit Pages:** Most users exit on the product and checkout pages, highlighting friction points early in the funnel. This indicates potential usability or trust issues in the purchase flow.
-* **Conversion Drop-Off:** A significant conversion drop-off is visible in the purchase funnel:
-    * 418 users added items to their cart
-    * Only 359 proceeded to checkout
-    * Just 106 completed their purchase
-    * Merely 17 left feedback
-    * This emphasizes the urgent need for checkout optimization.
-* **Strong Ad Engagement:** Most users did interact with ads, reflecting successful ad engagement and strong brand visibility in promotional channels.
-* **Mobile-First Audience:** Most users access the site via mobile devices, underlining the importance of a seamless mobile experience.
+* **Referral Traffic Dominance:** Instagram drives the highest user traffic, outperforming Facebook and Google combined[cite: 11, 20]. This highlights the power of social media in attracting both new and returning visitors[cite: 4].
+* **Critical Exit Pages:** A significant number of users exit at the product and checkout pages[cite: 12, 21]. This indicates potential usability or trust issues in the purchase flow[cite: 21].
+* **Conversion Drop-Off:** A significant conversion drop-off is visible in the purchase funnel[cite: 14, 22]:
+    * 418 users added items to their cart [cite: 15, 22]
+    * Only 359 proceeded to checkout [cite: 15, 22]
+    * Just 106 completed their purchase [cite: 15, 22]
+    * Merely 17 left feedback [cite: 15, 22]
+    * This emphasizes the urgent need for checkout optimization[cite: 14].
+* **Strong Ad Engagement:** Most users did interact with ads, reflecting successful ad engagement and strong brand visibility in promotional channels[cite: 15, 19].
+* **Mobile-First Audience:** Most users access the site via mobile devices[cite: 16]. This underlines the importance of a seamless mobile experience[cite: 16].
 
 ## 💡 Strategic Recommendations
 
 Based on our findings, we propose the following actionable strategies to enhance the customer journey and boost sales:
 
-* **Combat Cart Abandonment:** Implement Exit-Intent Popups or Recovery Emails: Use prompts or cart recovery strategies to re-engage users who drop off during checkout.
-* **Optimize Conversion Funnel:** Optimize Checkout and Product Pages: Simplify design, enhance clarity, and highlight key information to build trust and guide users through the purchase flow.
-* **Incentivize Feedback:** Encourage Post-Purchase Feedback: Make feedback easy and incentivized to increase response rate and gain insight into any friction points.
-* **Enhance Mobile Experience:** Given the high mobile usage, continuously optimize the website for mobile devices to ensure a flawless and intuitive user experience.
+* **Combat Cart Abandonment:** Implement exit-intent popups or recovery emails to re-engage users who drop off during checkout[cite: 23].
+* **Optimize Conversion Funnel:** Simplify design, enhance clarity, and highlight key information on product and checkout pages to build trust and guide users through the purchase flow[cite: 23].
+* **Incentivize Feedback:** Make feedback easy and incentivized to increase response rate and gain insight into any friction points[cite: 24].
+* **Enhance Mobile Experience:** Given the high mobile usage, continuously optimize the website for mobile devices to ensure a flawless and intuitive user experience[cite: 16].
 
 ## 📈 The Customer Journey Map
 
-Our analysis is framed around the five stages of the customer journey:
+Our analysis is framed around the five stages of the customer journey[cite: 4]:
 
-1.  **Awareness:** Customers commonly discover the brand through social media platforms and online ads, which effectively attract both new and returning visitors to the website.
-2.  **Consideration:** Once they arrive, users often explore product categories like casual wear. High engagement is observed among younger customers who spend time Browse and comparing options.
-3.  **Purchase:** Shoppers are more likely to complete a purchase if they've visited before, interacted with promotions, or experienced a smooth and quick checkout process.
-4.  **Retention:** Customers who were satisfied with their first purchase tend to return. Repeat purchases are especially frequent among those who bought trending or seasonal items.
-5.  **Advocacy:** Satisfied customers often share their experiences through reviews or by returning to shop again. Their behavior supports brand trust and influences new shoppers.
+1.  **Awareness:** Customers commonly discover the brand through social media platforms and online ads, which effectively attract both new and returning visitors to the website[cite: 4].
+2.  **Consideration:** Once they arrive, users often explore product categories like casual wear[cite: 5]. High engagement is observed among younger customers who spend time Browse and comparing options[cite: 6].
+3.  **Purchase:** Shoppers are more likely to complete a purchase if they've visited before, interacted with promotions, or experienced a smooth and quick checkout process[cite: 7].
+4.  **Retention:** Customers who were satisfied with their first purchase tend to return[cite: 8]. Repeat purchases are especially frequent among those who bought trending or seasonal items[cite: 9].
+5.  **Advocacy:** Satisfied customers often share their experiences through reviews or by returning to shop again[cite: 10]. Their behavior supports brand trust and influences new shoppers[cite: 10].
 
 ## 📊 Dashboard Views
 
 Here are the key dashboards providing a visual overview of our findings:
+
+### Customer Behavior Dashboard
 
 ![Customer Behavior Dashboard](dashboard%20screens/consumer%20behavior%20page.JPG)
 
 ### Sales Dashboard
 
 ![Sales Dashboard](dashboard%20screens/Sales%20page.JPG)
-
 
 ## 🚀 Future Enhancements
 
